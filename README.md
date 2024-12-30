@@ -6,7 +6,7 @@ This is a presentation on how to remove invasive plants.
 
 ## Presentations
 
-See the <a href="https://github.com/josephdpurcell/how-to-remove-invasive-plants">Presentation Index</a>.
+See the <a href="https://josephdpurcell.github.io/how-to-remove-invasive-plants/presentations">Presentation Index</a>.
 
 ## Notes
 
