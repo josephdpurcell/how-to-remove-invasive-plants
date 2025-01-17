@@ -1,3 +1,21 @@
+/**
+ * Right now this allows:
+ * <section
+ *        data-markdown="content.md"
+ *        data-separator-vertical="^### "
+ *        data-separator="^## "
+ *      ></section>
+ *
+ * I like this because you can very quickly map h1 to title, h2 to horizontal slides, and h3 to vertical.
+ * Which is how I think of it.
+ *
+ * But, what if you want an image? Or you don't want the H1 to show?
+ *
+ * It would be nice to have some other way to indicate a section... I wonder if you can match h2 OR
+ * <!-- SECTION -->
+ * for a horizontal
+ * or some other keyword...
+ */
 !(function (e, t) {
   "object" === typeof exports && "undefined" !== typeof module
     ? (module.exports = t())
@@ -2007,42 +2025,65 @@
           "</script>"
       );
     }
-    function i(e, t) {
-      t = s(t);
-      const n = new RegExp(
-          t.separator + (t.verticalSeparator ? "|" + t.verticalSeparator : ""),
+    function slidify(markdown, options) {
+      options = s(options);
+      const separatorRegex = new RegExp(
+          options.separator +
+            (options.verticalSeparator ? "|" + options.verticalSeparator : ""),
           "mg"
         ),
-        i = new RegExp(t.separator);
-      let l,
-        o,
-        a,
-        c = 0,
-        h = !0,
-        p = [];
-      for (; (l = n.exec(e)); )
-        (o = i.test(l[0])),
-          !o && h && p.push([]),
-          (a = e.substring(c, l.index)),
-          o && h ? p.push(a) : p[p.length - 1].push(a),
-          (c = n.lastIndex),
-          (h = o);
-      (h ? p : p[p.length - 1]).push(e.substring(c));
-      let u = "";
-      for (let e = 0, n = p.length; e < n; e++)
-        p[e] instanceof Array
-          ? ((u += "<section " + t.attributes + ">"),
-            p[e].forEach(function (e) {
-              u += "<section data-markdown>" + r(e, t) + "</section>";
+        horizontalSeparatorRegex = new RegExp(options.separator);
+      let matches,
+        isHorizontal,
+        content,
+        lastIndex = 0,
+        wasHorizontal = !0,
+        sectionStack = [];
+      for (; (matches = separatorRegex.exec(markdown)); ) {
+        isHorizontal = horizontalSeparatorRegex.test(matches[0]);
+        if (!isHorizontal && wasHorizontal) {
+          sectionStack.push([]);
+        }
+        content = markdown.substring(lastIndex, matches.index);
+        // START MY HACK ================
+        // Do not add empty slides
+        if (content === "") {
+          // do nothing
+        }
+        // END MY HACK ===================
+        else if (isHorizontal && wasHorizontal) {
+          sectionStack.push(content);
+        } else {
+          sectionStack[sectionStack.length - 1].push(content);
+        }
+        // START MY HACK ================
+        // This was the original line:
+        // lastIndex = separatorRegex.lastIndex;
+        // This is my line, which preserves the matched symbols (eg ##):
+        lastIndex = separatorRegex.lastIndex - matches[0].length;
+        // END MY HACK ===================
+        wasHorizontal = isHorizontal;
+      }
+      (wasHorizontal
+        ? sectionStack
+        : sectionStack[sectionStack.length - 1]
+      ).push(markdown.substring(lastIndex));
+      let markdownSections = "";
+      for (let e = 0, n = sectionStack.length; e < n; e++)
+        sectionStack[e] instanceof Array
+          ? ((markdownSections += "<section " + options.attributes + ">"),
+            sectionStack[e].forEach(function (e) {
+              markdownSections +=
+                "<section data-markdown>" + r(e, options) + "</section>";
             }),
-            (u += "</section>"))
-          : (u +=
+            (markdownSections += "</section>"))
+          : (markdownSections +=
               "<section " +
-              t.attributes +
+              options.attributes +
               " data-markdown>" +
-              r(p[e], t) +
+              r(sectionStack[e], options) +
               "</section>");
-      return u;
+      return markdownSections;
     }
     function l(e) {
       return new Promise(function (s) {
@@ -2086,7 +2127,7 @@
                     });
                   })(e).then(
                     function (t, s) {
-                      e.outerHTML = i(t.responseText, {
+                      e.outerHTML = slidify(t.responseText, {
                         separator: e.getAttribute("data-separator"),
                         verticalSeparator: e.getAttribute(
                           "data-separator-vertical"
@@ -2105,7 +2146,7 @@
                     }
                   )
                 )
-              : (e.outerHTML = i(t(e), {
+              : (e.outerHTML = slidify(t(e), {
                   separator: e.getAttribute("data-separator"),
                   verticalSeparator: e.getAttribute("data-separator-vertical"),
                   notesSeparator: e.getAttribute("data-separator-notes"),
@@ -2219,7 +2260,7 @@
       },
       processSlides: l,
       convertSlides: c,
-      slidify: i,
+      slidify: slidify,
       marked: P,
     };
   };
