@@ -10,7 +10,7 @@ By Joseph D. Purcell
 
 I am not an expert, this is simply my perspective.
 
-## Assumptions <!-- omit in toc -->
+## Assumptions
 
 - You are wanting to develop skills for removing invasive plants and are a beginner
 - You know the importance of getting rid of invasive plants (impact on state parks and local ecology)
@@ -18,12 +18,16 @@ I am not an expert, this is simply my perspective.
 
 <!-- TODO: move this to the end as closing thoughts -->
 
-## Not Included <!-- omit in toc -->
+<!-- TODO decide on this
+Not Included
+
 
 - How is the native ecosystem adapting to non-native invasive species?
 - Why do non-native species tend to be invasive?
 - Why are invasive plants still being sold? (eg. Dammann's)
 - Why do people buy and cultivate invasive plants?
+
+-->
 
 ## Overview <!-- omit in toc -->
 
@@ -35,6 +39,7 @@ Use VSCode Markdown All In One to generate TOC:
 
 <div class="list--two-col text-sm">
 
+- Assumptions
 - Terminology
   - Native vs Non-Native
   - Net-negative Benefit
@@ -217,17 +222,15 @@ First, mow it to the bare ground. Then, add a covering:
 - Cardboard: avoid toxic ink and remove tape, secure to ground
 - Mulch: 2-4" thick
 
-Note: dirt, solarization (clear plastic to heat), propoane torch
+Note: dirt, solarization (clear plastic to heat), propane torch
 
 #### Annual Cutting
 
-Excellent option for precision.
+Range from precision (loppers/clippers/snips) to annihilation (mowing/weed eating).
 
-Once after spring growth and again in fall before winter.
+For plants that don't seed/fruit in their first year (eg White Mulberry) you can precision cut once after spring growth and again in fall before winter.
 
-Use loppers, clippers, snips, or weed eater.
-
-I do this with White Mulberry, Japanese Knotweed, vines (English Ivy, Wintercreeper) that climb, Creeping Thistle.
+I do precision cutting with White Mulberry, Japanese Knotweed, vines that climb (English Ivy, Wintercreeper), Creeping Thistle.
 
 ### Identification
 
@@ -359,13 +362,45 @@ Understand the legal constraints of invasive plant removal.
 
 When: always know the basics
 
-#### TODO
+#### Mowing
 
-How:
+- You can mow diligently and still have invasive plants:
+  - You must also treat trees, eg. Wintercreeper all around South Irvington Circle
+  - If not frequent enough some plants will seed quickly, eg. Garlic Mustard
+- Mowing, generally, is an effective method of Exhaustion
 
-- city ordinance
-- sale of invasives
-- what other retaliation against invasive?
+#### Not-Mowing (eg. Displacement or Wilding)
+
+<span style="text-align:left">
+
+Many natives are taller than 12" which are illegal due to [Indianapolis Code of Ordinances Section 575-2](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances?nodeId=TITIIIPUHEWE_CH575ENPUNU_ARTIINGE_S575-2DE):
+
+</span>
+
+- BNR runs a whistleblower service May 1 to Oct 31
+- Violations can be $2,000 per day (depending on dept. pursuing you)
+- City can enter your property to mow and bill you, and failure to apy can become a lien
+
+#### Not-Mowing (eg. Displacement or Wilding)
+
+<p style="text-align:left">Exceptions to the rule are:</p>
+
+1. Farming, gardening, horticulture (1)
+2. The native area is 150' from an occupied building and health department says it's OK (4)
+3. Registered rain garden (6)
+4. Registered native planting area (7)
+
+Note: if someone is out to get you your only defense is to get an area registered
+
+#### Buying Invasives
+
+As of 2020 it's "illegal to sell, gift, barter, exchange, distribute, transport, or introduce" invasive plants ([link](https://www.in.gov/dnr/rules-and-regulations/invasive-species/)).
+
+<div class="fragment">
+
+It's not illegal to have invasives on your property and sell it, eg. many people cultivate Amur Honeysuckle.
+
+</div>
 
 ### Wilding
 
@@ -373,11 +408,12 @@ Dedicate an area to become an unmanaged native area.
 
 When: you want less effort or want to maximize benefit to native ecosystem
 
-#### TODO
+#### Avoid Disturbances
 
 - Key is to make a space where invasives can't get a foothold
+- Disturbing areas give invasives a foothold
+  - Notice they congregate around fences, suburbs, and highways?
 - Remove anything that prevents native growth (eg invasive plants, trash)
-- Zero human disturbance
 
 ## Start Today
 
@@ -389,4 +425,7 @@ When: you want less effort or want to maximize benefit to native ecosystem
 Visual aids to consider:
 - leather gloves, polyester shirt/pants, hat
 - triclopyr stuff: dauber bottle, tool to open them, gloves, squirt bottle
+
+TODO:
+- am I liable for https://www.in.gov/dnr/rules-and-regulations/invasive-species/terrestrial-invasive-species-plants/ ?
  -->
