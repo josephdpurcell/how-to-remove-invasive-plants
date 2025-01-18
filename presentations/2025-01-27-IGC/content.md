@@ -1,4 +1,4 @@
-# Invasive Plant Removal <!-- omit in toc -->
+# Invasive Plant Removal
 
 Irvington Garden Club
 
@@ -6,11 +6,17 @@ January 27, 2025
 
 By Joseph D. Purcell
 
+## Disclaimer <!-- omit in toc -->
+
+I am not an expert, this is simply my perspective.
+
 ## Assumptions <!-- omit in toc -->
 
 - You are wanting to develop skills for removing invasive plants and are a beginner
 - You know the importance of getting rid of invasive plants (impact on state parks and local ecology)
 - You take ownership over your space(s) and want to do better
+
+<!-- TODO: move this to the end as closing thoughts -->
 
 ## Not Included <!-- omit in toc -->
 
@@ -21,27 +27,31 @@ By Joseph D. Purcell
 
 ## Overview <!-- omit in toc -->
 
-<!-- Use VSCode Markdown All In One to generate TOC -->
+<!--
+Use VSCode Markdown All In One to generate TOC:
+    "markdown.extension.toc.levels": "2..3",
+    "markdown.extension.toc.plaintext": true
+-->
 
-<div style="font-size:60%;color:#fff">
+<div class="list--two-col text-sm">
 
-- [Terminology](#markdown-header-terminology)
-    - [Native vs Non-Native](#markdown-header-native-vs-non-native)
-    - [Net-negative Benefit](#markdown-header-net-negative-benefit)
-    - [Managed vs Unmanaged](#markdown-header-managed-vs-unmanaged)
-    - [Invasive vs Non-Invasive](#markdown-header-invasive-vs-non-invasive)
-- [Skills](#markdown-header-skills)
-    - [Bio Material Handling](#markdown-header-bio-material-handling)
-    - [Displacement](#markdown-header-displacement)
-    - [Exhaustion](#markdown-header-exhaustion)
-    - [Indentification](#markdown-header-indentification)
-    - [Perseverance](#markdown-header-perseverance)
-    - [Planning](#markdown-header-planning)
-    - [Poison](#markdown-header-poison)
-    - [Removal](#markdown-header-removal)
-    - [Legal Understanding](#markdown-header-legal-understanding)
-    - [Wilding](#markdown-header-wilding)
-- [Start Today](#markdown-header-start-today)
+- Terminology
+  - Native vs Non-Native
+  - Net-negative Benefit
+  - Managed vs Unmanaged
+  - Invasive vs Non-Invasive
+- Skills
+  - Bio Material Handling
+  - Displacement
+  - Exhaustion
+  - Identification
+  - Perseverance
+  - Planning
+  - Poison
+  - Removal
+  - Legal Understanding
+  - Wilding
+- Start Today
 
 </div>
 
@@ -49,20 +59,30 @@ By Joseph D. Purcell
 
 ### Native vs Non-Native
 
-Native species are indigenous to the ecosystem. (eg. Trumpet Vine)
+Native species are indigenous to the ecosystem.
 
-Non-native species are not indigenous. (eg. Amur Honeysuckle)
+(eg. Trumpet Vine, Poison Ivy)
+
+Non-native species are not indigenous.
+
+(eg. Amur Honeysuckle, Dandelion)
+
+Resources: [BONAP](http://www.bonap.org/), [USDA](https://plants.usda.gov/), [ITIS](https://www.itis.gov/)
+
+<div class="fragment">
+
+> Native status is difficult to define and is somewhat arbitrary (USDA)
+
+</div>
 
 ### Net-negative Benefit
 
-A plant has net-negative benefit:
-
 - Offers less or no food supply (for native life)
 - Crowds out native plants (which do offer food)
-- Changes structure and content of soil (causes erosion, supression of native growth)
+- Changes structure and content of soil (causes erosion, suppression of native growth)
 
 <p class="fragment">
-Example: my childhood forrest is now Vinca. Its beautiy doesn't outweigh the cost of having no more berries or mushrooms.
+Example: my childhood forrest is now Vinca. Its beauty doesn't outweigh the cost of having no more berries or mushrooms.
 </p>
 
 ### Managed vs Unmanaged
@@ -77,12 +97,14 @@ Example: that forrest is unmanaged, but the home and farm nearby where the Vinca
 
 ### Invasive vs Non-Invasive
 
-Invasive species result in net-negative outcomes for an ecosystem. (eg. Wintercreeper)
+Invasive species result in net-negative benefit for an ecosystem. (eg. Wintercreeper)
 
 Non-invasive species are neutral or positive. (eg. Tomatoes)
 
+Resources: [GISD](https://www.iucngisd.org/gisd/), [NISIC](https://www.invasivespeciesinfo.gov/terrestrial/plants), [NatureServe](https://explorer.natureserve.org/)
+
 <p class="fragment">
-Example: Trumpet Vine can be a native invasive in managed areas, but would be non-invasive in unmanaged areas.
+Question: Trumpet Vine is a native, but is considered invasive in managed areas and non-invasive in unmanaged areas?
 </p>
 
 <!--
@@ -108,7 +130,6 @@ Our singular focus is non-native invasive plants that are unquestionably harmful
 Skills are how you get rid of invasive plants.
 
 - What is it
-- Why it helps
 - When to use it
 - How to apply it
 
@@ -116,88 +137,132 @@ Skills are how you get rid of invasive plants.
 
 Handle bio material safely and with control.
 
-When to use: always, nature is powerful
+When: always, nature is powerful
 
-How:
+#### Protective Clothing
 
-- Treat the entire plant like a hazardous substance
-- Tree of heaven causes heart arythmia
-- Know when the plant has gone to seed/fruit, because at that point you need to bag it at the site of removal
-- Also bag anything that can regrow like vine clippings or knotweed tubers
-- Sometimes you can compose: I have a single spot where I heap leafy invasives that won’t burn well (knotweed, clematis)
-- Sometimes you can burn
-  - Burn barrel $20 is so versatile; there’s an art to burning, need to be mindful of how wet the environment is, how wet the material is
-  - Trench burn is cool but not practical
-  - Biochar
+You will encounter toxins, thorns, and burrs.
+
+(eg. myocarditis from Tree of Heaven sap)
+
+<p style="text-align:left">Clothing to consider:</p>
+
+- Thick leather gloves (single most important!)
+- Long sleeves and long pants with very tight weave (eg polyester running clothes)
+- Hat
+- Sturdy shoes (eg. leather boots)
+
+#### Biochar
+
+You cannot leave plants to decompose without propagation risk.
+
+Burning them into biochar terminates them, is carbon neutral ([link](https://sustainability.stackexchange.com/questions/7009/is-burning-wood-the-same-as-letting-it-biodegrade-from-a-co2-emissions-perspecti)), and is a soil encrichment ([link](https://www.climatehubs.usda.gov/hubs/northwest/topic/biochar)).
+
+- Option 1: Burn barrel with dolly so you can burn on site. See online videos for strategy and safety considerations.
+- Option 2: Trench burn is good at handling large quantities. Requires higher degree of safety working with fire.
+
+#### Bagging
+
+If the plant has gone to seed/fruit make sure you bag it immediately on site.
+
+Treat it as a hazardous material.
+
+Don't leave it in the bag to mold.
 
 ### Displacement
 
 Force invasive plants out of their occupied space by promoting native plants.
 
-When to use: pair with removal or smothering
+When: pair with removal or smothering
 
-How:
+#### Promote Strong Natives
 
-- Know strong plants: these can propagate and grow in the middle of Ivy
-  - Am black raspberry
-  - Riverbank grape vine
-  - Goldenrod
-- Buy or grow natives; good luck! INPS sales and conference, Indy parks alliance. Not sure when they will be announced
-- Get as many native plants in your yard; in part it’s a numbers game in our neighborhood.
+- American Black Raspberry > Wintercreeper, Sweet Autumn Clematis
+- Riverbank Grapevine > Wintercreeper
+- Goldenrod > Wintercreeper
+
+#### Keep Adding Natives
+
+It's a numbers game.
+
+Good luck finding natives for sale! Once or twice a year there's a sale, see INSP and Indy Parks Alliance.
+
+Grow from seed.
+
+And, don't trust the label. I bought Red Mulberry that PPDL diagnosed as White Mulberry, and WDNR issued stop order for nursery.
 
 ### Exhaustion
 
 Reduce a plant's energy stores, reproductive means, access to food, or energy production through mechanical means.
 
-When to use: removal isn't viable, you don't want to poison, or an area is saturated with invasives
+When: removal isn't viable, you don't want to poison, or an area is saturated with invasives
 
-How:
+#### Removal of Sources
 
-- Smother: prevent access to sunlight by covering with:
-  - Plastic
-  - Dirt
-  - Cardboard: pain because you need to acquire the boxes, make sure they don’t have toxic ink, remove tape, arrange, secure to ground
-  - Mulch: has to be a thick layer
-  - Ideally some kind of dirt with native seeds
-  - Keep it covered? Decorative rocks
-- Keys are to prevent photosynthesis and propagation
-- Do it at least once but probably twice: once after spring growth and again in Sep before winter
-- Cut every year (white mulberry, knotweed, vines, creeping thistle)
-  - Loppers
-  - Clippers
-  - Weed eater
-- Get rid of source
-  - Make sure any mature plants nearby are removed (see also burn fest)
-  - Carry seeds in bags and burn
-- Mow/weed down to dirt (optional in some cases, eg thick plastic)
+Plants don't respect fences. Invasive plants are great at propagating from elsewhere.
 
-### Indentification
+Talk to your neighbors.
+
+[Irvington Burn Fest](https://www.irvburnfest.com/) on October 5, 2025.
+
+#### Smother
+
+Excellent option for large areas.
+
+Cut off energy production (photosynthesis) by covering.
+
+First, mow it to the bare ground. Then, add a covering:
+
+- Plastic: UV stabilized plastic, 1000 gauge or 6 mil (~0.15-0.25 mm), remove after a year
+- Cardboard: avoid toxic ink and remove tape, secure to ground
+- Mulch: 2-4" thick
+
+Note: dirt, solarization (clear plastic to heat), propoane torch
+
+#### Annual Cutting
+
+Excellent option for precision.
+
+Once after spring growth and again in fall before winter.
+
+Use loppers, clippers, snips, or weed eater.
+
+I do this with White Mulberry, Japanese Knotweed, vines (English Ivy, Wintercreeper) that climb, Creeping Thistle.
+
+### Identification
 
 Sufficiently determine a plant is invasive.
 
-When to use: always; never remove a plant unless you know what it is and 1 reason it’s beneficial.
-
-How to:
-
-- Seek, iNaturalist
-
-* Tech: iNaturalist, Seek
-* Compare: growing in same spot, there’s others nearby
-* Observe: is it everywhere, do you see native bugs and birds successfully interacting with it
-* Listen to people complain: naughty list
-  - Winter creeper: this might be impossible to beat
-  - Clematis: it’s aggressive, kills all beneath
-  - Amur: suppressive chemicals
-  - White mulberry
-  - English Ivy
-  - Tree of heaven
-  - Creeping thistle
-  - Stickseed
-  - Poison Ivy
-  - Spanish needles
-* Flip it: know the best: goldenrod, aster, black raspberry, pokeberry
+When: always; never remove a plant unless you know what it is and 1 reason it’s beneficial
 
 Note: Only need to sufficiently identify, doesn't have to be species.
+
+#### Seek
+
+Open the app and point.
+
+Indicates if native or endangered and gives photos to compare.
+
+Limitations! Some species it doesn't get and sometimes it gets a bad photo.
+
+#### iNaturalist
+
+Online forum where experts will help classify your plants.
+
+Requires higher level of skill and more datapoints.
+
+Contributes to research!
+
+#### Observe
+
+Look around. Invasive plants are obvious.
+
+- Does it turn green before anything else and stay green longer?
+- Do birds know how to nest in it or eat its fruit/seed? (Question of nutritional content)
+- How many bugs are there on it versus native plants?
+- How quickly does it grow?
+
+Note: See how invasives productivity compares to the best, goldenrod, aster, black raspberry, pokeberry
 
 ### Perseverance
 
@@ -205,12 +270,14 @@ Continue removal efforts despite adversity or inability to envision success.
 
 When: always
 
-How:
+#### Tips on Persevering
 
 - Think in geological time. You may not see results in your lifetime.
 - Remember first principles: do it because it's right, not because it's easy or for results
-- Community support: learn about others who persevered
-- Get help
+- Community support: you aren't alone in the struggle
+- Don't do it alone: invasive removal is a communal effort
+
+Note: someone named Liz overheard me and went on a rant about how hard it is to promote native plants
 
 ### Planning
 
@@ -218,56 +285,81 @@ Optimize effort to maximize ecological benefit.
 
 When: always
 
-How:
+#### Divide and Conquer
 
-- Divide and concquer; goal is unmanaged wild areas, but to get there you need managed wilding areas, and also establish some managed (TODO: without plants)
+<p style="text-align:left">Don't require focus:</p>
+
+- Unmanaged barren areas that don't require maintenance (eg. driveway, house, garage).
+- Unmanaged native areas that are wild. Check annually before invasives seed/flower.
+- Unmanaged invasive areas that are contained. Check annually they are contained (no seeds/flowers).
+
+Note: example of unmanaged invasive is wintercreeper with no trees, or a smothered area.
+
+#### Divide and Conquer
+
+<p style="text-align:left">Require focus:</p>
+
+- Managed native areas that are progressing into wild but still require weeding and invasive removal.
+- Managed invasive areas should immediately be converted into managed native or unmanaged invasive by containment.
 
 ### Poison
 
 Reduce a plant's energy stores, reproductive means, access to food, or energy production through chemical means.
 
-When to use:
+When: cancer analogy, destructive means for greater good
 
-Poison: permanently kill by chemical means; this is the most difficult option, you must handle with care and do so knowing risks
+#### Triclopr
 
-When to use: cancer analogy, destructive means for greater good
+CAUTION! Poison is poison, handle accordingly!
 
-How:
+- Put on plastic gloves
+- Fill dauber bottle
+- Cut plant or bend to expose stem
+- Daub a few times until stem cut is saturated
+- Do NOT touch your skin!
+- Apply when it is not going to rain for 24 hrs
 
-- Not covered is roundup (bc Triclopyr is what’s used) and spraying (bc it’s more aggressive and careless than what I like, which is precision)
-- Substances
-  - Triclopyr
-  - White vinegar
-  - Salt
-- Application
-  - Dauber
-  - Squirt bottle
-  - Dawn bottle
-- Technique
-  - Cut then apply
-  - Use gloves and eye protection
-  - Don’t do it when it rains, 24 hrs
+Note: Used by Dept. of Land Stewardship. Alt method is squirt bottle.
+
+#### White Vinegar and Salt
+
+I've experimented with 50% White Vinegar (the regular 3% stuff) and 50% rock salt. Seems to kill growth of that stem.
 
 ### Removal
 
 Remove a plant from an area through mechanical means.
 
-When to use: always when you have the strength
+When: always when you have the strength
 
-How:
+Note: don't hurt yourself!
 
-- Dig: don’t hurt yourself
-- Cut roots w loppers
-- Pry up with bar
-- Wait till it’s wet
-- Pull roots
-- BURN! Many plants regrow
+#### Plants <2'
+
+<p style="text-align:left">Tend to do fine pulling by hand:</p>
+
+- Key is to get all of the root!
+- Delicate plants like Creeping Thistle and Japanese Knotweed can sometimes be pulled by hand when the soil is very wet without much fuss.
+- Sometimes I first loosen with a quick trowel jab.
+- For strong roots like Amur Honeysuckle saplings you can yank away.
+
+#### Plants >2'
+
+<p style="text-align:left">Requires strategy:</p>
+
+- First, cut the canopy down to the ground. Loppers are preferred tool.
+- Dig surrounding the stump about 1' away from center. If shovel can't cut the root dig until roots are exposed and use loppers.
+- Pry up with bar.
+- Easier when soil is wet.
+- Be careful! Know when its too big.
+- Regular stretching and exercise can boost your skill.
 
 ### Legal Understanding
 
 Understand the legal constraints of invasive plant removal.
 
 When: always know the basics
+
+#### TODO
 
 How:
 
@@ -279,17 +371,22 @@ How:
 
 Dedicate an area to become an unmanaged native area.
 
-Why: creates a space that invasive plants cannot introduce themselves.
+When: you want less effort or want to maximize benefit to native ecosystem
 
-When: you have the resources
+#### TODO
 
-How:
-
+- Key is to make a space where invasives can't get a foothold
 - Remove anything that prevents native growth (eg invasive plants, trash)
 - Zero human disturbance
 
 ## Start Today
 
 - Download Seek
-- Follow Indy Parks Alliance and INPS for plant sales
-- Mark your calendar to bring invasive plants to the Irv Burn Fest Oct 5, 2024
+- Follow Indy Parks Alliance and INPS for native plant sales
+- Mark your calendar to bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/) Oct 5, 2024
+
+<!--
+Visual aids to consider:
+- leather gloves, polyester shirt/pants, hat
+- triclopyr stuff: dauber bottle, tool to open them, gloves, squirt bottle
+ -->
