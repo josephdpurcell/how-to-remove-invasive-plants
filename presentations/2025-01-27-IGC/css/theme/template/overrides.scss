@@ -1,0 +1,12 @@
+.list--two-col > ul {
+  column-count: 2;
+  column-gap: 1em;
+
+  li > ul > li {
+    margin-left: 1em;
+  }
+}
+
+.text-sm {
+  font-size: 80%;
+}
