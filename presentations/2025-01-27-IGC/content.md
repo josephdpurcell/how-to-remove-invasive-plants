@@ -6,14 +6,16 @@ January 27, 2025
 
 By Joseph D. Purcell
 
-## Disclaimer <!-- omit in toc -->
+## About Me <!-- omit in toc -->
 
 I am a hobbyist, not an expert.
+
+Note: I work at Five9 as a Software Engineer
 
 ## Assumptions <!-- omit in toc -->
 
 - You are wanting to develop skills for removing invasive plants and are a beginner
-- You know the importance of getting rid of invasive plants (impact on state parks and local ecology)
+- You know the importance of getting rid of invasive plants (impact on state parks and local ecosystem)
 - You take ownership over your space(s) and want to do better
 
 <!-- TODO: move this to the end as closing thoughts -->
@@ -141,7 +143,7 @@ Skills are how you get rid of invasive plants.
 
 Handle bio material safely and with control.
 
-When: always, nature is powerful
+Use when interacting with plants (Exhaustion, Poison, Removal)
 
 #### Protective Clothing
 
@@ -177,7 +179,7 @@ Don't leave it in the bag to mold.
 
 Force invasive plants out of their occupied space by promoting native plants.
 
-When: pair with removal or smothering
+Use when there is vacant space (Exhaustion, Removal)
 
 #### Promote Strong Natives
 
@@ -199,7 +201,7 @@ And, don't trust the label. I bought Red Mulberry that PPDL diagnosed as White M
 
 Reduce a plant's energy stores, reproductive means, access to food, or energy production through mechanical means.
 
-When: removal isn't viable, you don't want to poison, or an area is saturated with invasives
+Use when Removal isn't viable
 
 #### Removal of Sources
 
@@ -209,7 +211,7 @@ Talk to your neighbors.
 
 [Irvington Burn Fest](https://www.irvburnfest.com/) on October 5, 2025.
 
-#### Smother
+#### Smothering
 
 Excellent option for large areas.
 
@@ -223,7 +225,7 @@ First, mow it to the bare ground. Then, add a covering:
 
 Note: dirt, solarization (clear plastic to heat), propane torch
 
-#### Annual Cutting
+#### Cutting
 
 Range from precision (loppers/clippers/snips) to annihilation (mowing/weed eating).
 
@@ -235,7 +237,7 @@ I do precision cutting with White Mulberry, Japanese Knotweed, vines that climb 
 
 Sufficiently determine a plant is invasive.
 
-When: always; never remove a plant unless you know what it is and 1 reason it’s beneficial
+Use when you interact with any plant
 
 Note: Only need to sufficiently identify, doesn't have to be species.
 
@@ -250,9 +252,9 @@ Look around. Invasive plants are obvious.
 
 Note: See how invasives productivity compares to the best, goldenrod, aster, black raspberry, pokeberry
 
-#### Seek
+#### Seek App
 
-Open the app and point.
+Open the app and point. (Apple and Android)
 
 Indicates if native or endangered and gives photos to compare.
 
@@ -281,7 +283,7 @@ The [Purdue Plant and Pest Diagnostics Lab](https://ag.purdue.edu/department/btn
 
 Continue removal efforts despite adversity or inability to envision success.
 
-When: always
+Use when you put forth any substantial effort
 
 #### Tips on Persevering
 
@@ -296,7 +298,7 @@ Note: someone named Liz overheard me and went on a rant about how hard it is to 
 
 Optimize effort to maximize ecological benefit.
 
-When: always
+Use when you have more work than time
 
 #### Divide and Conquer
 
@@ -319,7 +321,9 @@ Note: example of unmanaged invasive is wintercreeper with no trees, or a smother
 
 Reduce a plant's energy stores, reproductive means, access to food, or energy production through chemical means.
 
-When: cancer analogy, destructive means for greater good
+Use when drastic measures are required
+
+(cancer analogy: destructive means for greater good)
 
 #### Triclopr
 
@@ -342,7 +346,7 @@ I've experimented with 50% White Vinegar (the regular 3% stuff) and 50% rock sal
 
 Remove a plant from an area through mechanical means.
 
-When: always when you have the strength
+Use when you have strength and soil is wet
 
 Note: don't hurt yourself!
 
@@ -370,7 +374,7 @@ Note: don't hurt yourself!
 
 Understand the legal constraints of invasive plant removal.
 
-When: always know the basics
+Use when you have a yard
 
 #### Mowing
 
@@ -416,7 +420,7 @@ It's not illegal to have invasives on your property and sell it, eg. many people
 
 Dedicate an area to become an unmanaged native area.
 
-When: you want less effort or want to maximize benefit to native ecosystem
+Use when you want to minimize effort and maximize ecological benefit
 
 #### Avoid Disturbances
 
