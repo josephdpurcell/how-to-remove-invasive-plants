@@ -357,11 +357,11 @@ section.has-light-background, section.has-light-background h1, section.has-light
     background-color: var(--r-background-color);
   }
 }
-.list--two-col > ul {
+.list--two-col > ul > li > ul {
   column-count: 2;
   column-gap: 1em;
 }
-.list--two-col > ul li > ul > li {
+.list--two-col > ul > li > ul li {
   margin-left: 1em;
 }
 

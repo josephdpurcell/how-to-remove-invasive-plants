@@ -8,9 +8,9 @@ By Joseph D. Purcell
 
 ## Disclaimer <!-- omit in toc -->
 
-I am not an expert, this is simply my perspective.
+I am a hobbyist, not an expert.
 
-## Assumptions
+## Assumptions <!-- omit in toc -->
 
 - You are wanting to develop skills for removing invasive plants and are a beginner
 - You know the importance of getting rid of invasive plants (impact on state parks and local ecology)
@@ -39,7 +39,6 @@ Use VSCode Markdown All In One to generate TOC:
 
 <div class="list--two-col text-sm">
 
-- Assumptions
 - Terminology
   - Native vs Non-Native
   - Net-negative Benefit
@@ -240,6 +239,17 @@ When: always; never remove a plant unless you know what it is and 1 reason it’
 
 Note: Only need to sufficiently identify, doesn't have to be species.
 
+#### Observe
+
+Look around. Invasive plants are obvious.
+
+- Does it turn green before anything else and stay green longer?
+- Do birds know how to nest in it or eat its fruit/seed? (Question of nutritional content)
+- How many bugs are there on it versus native plants?
+- How quickly does it grow?
+
+Note: See how invasives productivity compares to the best, goldenrod, aster, black raspberry, pokeberry
+
 #### Seek
 
 Open the app and point.
@@ -256,16 +266,16 @@ Requires higher level of skill and more datapoints.
 
 Contributes to research!
 
-#### Observe
+#### PPDL
 
-Look around. Invasive plants are obvious.
+<div style="text-align:left">
 
-- Does it turn green before anything else and stay green longer?
-- Do birds know how to nest in it or eat its fruit/seed? (Question of nutritional content)
-- How many bugs are there on it versus native plants?
-- How quickly does it grow?
+The [Purdue Plant and Pest Diagnostics Lab](https://ag.purdue.edu/department/btny/ppdl/) can identify in two ways:
 
-Note: See how invasives productivity compares to the best, goldenrod, aster, black raspberry, pokeberry
+</div>
+
+- Photo Samples (similar to iNaturalist)
+- Physical Samples (DNA test)
 
 ### Perseverance
 
