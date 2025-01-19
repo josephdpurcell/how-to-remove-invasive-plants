@@ -31,3 +31,26 @@ section {
   font-size: 0.5em;
   opacity: 80%;
 }
+
+// I just want the image to look good
+.slide-image {
+  // Center the image because its all left aligned
+  text-align: center;
+
+  // So much margin
+  margin: 0;
+  p {
+    margin: 0;
+  }
+  img {
+    margin: 0;
+  }
+}
+
+// Remove empty headings
+h1[id=""],
+h2[id=""],
+h3[id=""],
+h4[id=""] {
+  display: none;
+}

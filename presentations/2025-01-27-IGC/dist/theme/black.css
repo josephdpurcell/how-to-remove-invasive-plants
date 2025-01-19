@@ -395,3 +395,21 @@ section {
   font-size: 0.5em;
   opacity: 80%;
 }
+
+.slide-image {
+  text-align: center;
+  margin: 0;
+}
+.slide-image p {
+  margin: 0;
+}
+.slide-image img {
+  margin: 0;
+}
+
+h1[id=""],
+h2[id=""],
+h3[id=""],
+h4[id=""] {
+  display: none;
+}

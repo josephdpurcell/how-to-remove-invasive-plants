@@ -61,6 +61,18 @@ Use VSCode Markdown All In One to generate TOC:
 
 </div>
 
+## <!-- omit in toc -->
+
+<div class="slide-image">
+
+![mars](mars.png)
+
+<!-- Source: unsplash -->
+
+Note: can invasive plants exist on mars? We're not on Mars, they can on Earth
+
+</div>
+
 ## Terminology
 
 ### Native vs Non-Native
@@ -112,24 +124,6 @@ Resources: [GISD](https://www.iucngisd.org/gisd/), [NISIC](https://www.invasives
 <p class="fragment">
 Question: Trumpet Vine is a native, but is considered invasive in managed areas and non-invasive in unmanaged areas?
 </p>
-
-<!--
-Uncertainty... !-- omit in toc --
-
-- What about native Trumpet Vine and Goldenrod or non-native Dandylion and White Clover?
-- How bad does it have to be to be invasive?
-- Is a grass yard with 20% natives worse than a native yard but 20% invasives?
-- How much of the USDA and IISC invasive lists are driven by economics versus ecology?
-
-<span class="fragment">
-Ultimately, you decide the future of the species.
-
-60% of land is private so despite what any USDA or IISC list says is invasive they won't do anything about plants in your yard.
-</span> -->
-
-<!-- ### Singular Focus !-- omit in toc --
-
-Our singular focus is non-native invasive plants that are unquestionably harmful to the native ecosystem. -->
 
 ## Skills
 
@@ -442,4 +436,23 @@ Visual aids to consider:
 
 TODO:
 - am I liable for https://www.in.gov/dnr/rules-and-regulations/invasive-species/terrestrial-invasive-species-plants/ ?
- -->
+
+
+
+
+NOTES to maybe include?
+
+
+- What about native Trumpet Vine and Goldenrod or non-native Dandylion and White Clover?
+- How bad does it have to be to be invasive?
+- Is a grass yard with 20% natives worse than a native yard but 20% invasives?
+- How much of the USDA and IISC invasive lists are driven by economics versus ecology?
+
+
+Ultimately, you decide the future of the species.
+
+60% of land is private so despite what any USDA or IISC list says is invasive they won't do anything about plants in your yard.
+
+Our singular focus is non-native invasive plants that are unquestionably harmful to the native ecosystem. -->
+
+-->
