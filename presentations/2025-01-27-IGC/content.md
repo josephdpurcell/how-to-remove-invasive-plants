@@ -15,7 +15,7 @@ Note: I work at Five9 as a Software Engineer
 ## Assumptions <!-- omit in toc -->
 
 - You are wanting to develop skills for removing invasive plants and are a beginner
-- You know the importance of getting rid of invasive plants (impact on state parks and local ecosystem)
+- You know the importance of getting rid of invasive plants (impact on parks and ecosystem)
 - You take ownership over your space(s) and want to do better
 
 <!-- TODO: move this to the end as closing thoughts -->
@@ -95,7 +95,7 @@ Resources: [BONAP](http://www.bonap.org/), [USDA](https://plants.usda.gov/), [IT
 
 ### Net-negative Benefit
 
-- Offers less or no food supply (for native life)
+- Offers little or no food supply (for native life)
 - Crowds out native plants (which do offer food)
 - Changes structure and content of soil (causes erosion, suppression of native growth)
 
@@ -187,9 +187,13 @@ It's a numbers game.
 
 Good luck finding natives for sale! Once or twice a year there's a sale, see INSP and Indy Parks Alliance.
 
-Grow from seed.
+Don't trust the label, know your source. I bought Red Mulberry that PPDL diagnosed as White Mulberry, and WDNR issued stop order for nursery.
 
-And, don't trust the label. I bought Red Mulberry that PPDL diagnosed as White Mulberry, and WDNR issued stop order for nursery.
+Grow from seed. You can harvest seeds at parks.
+
+Propagate.
+
+Transfer from other yards.
 
 ### Exhaustion
 
@@ -207,25 +211,26 @@ Talk to your neighbors.
 
 #### Smothering
 
-Excellent option for large areas.
-
 Cut off energy production (photosynthesis) by covering.
+
+Excellent option for large areas.
 
 First, mow it to the bare ground. Then, add a covering:
 
 - Plastic: UV stabilized plastic, 1000 gauge or 6 mil (~0.15-0.25 mm), remove after a year
-- Cardboard: avoid toxic ink and remove tape, secure to ground
-- Mulch: 2-4" thick
+- Bio materials: let cover decompose; cut holes and plant plugs; materials:
+  - Cardboard: avoid toxic ink and remove tape; secure to ground with sticks
+  - Mulch: 2-4" thick
 
-Note: dirt, solarization (clear plastic to heat), propane torch
+Note: newspaper, dirt, solarization (clear plastic to heat), propane torch
 
 #### Cutting
 
 Range from precision (loppers/clippers/snips) to annihilation (mowing/weed eating).
 
-For plants that don't seed/fruit in their first year (eg White Mulberry) you can precision cut once after spring growth and again in fall before winter.
+For plants that don't seed/fruit in their first year (eg White Mulberry) you can precision cut once after spring growth and again in fall before winter. Repeat annually.
 
-I do precision cutting with White Mulberry, Japanese Knotweed, vines that climb (English Ivy, Wintercreeper), Creeping Thistle.
+Note: I do precision cutting with White Mulberry, Japanese Knotweed, vines that climb (English Ivy, Wintercreeper), Creeping Thistle.
 
 ### Identification
 
@@ -296,17 +301,17 @@ Use when you have more work than time
 
 #### Divide and Conquer
 
-<p style="text-align:left">Don't require focus:</p>
+<p style="text-align:left">Identify what doesn't require focus:</p>
 
 - Unmanaged barren areas that don't require maintenance (eg. driveway, house, garage).
 - Unmanaged native areas that are wild. Check annually before invasives seed/flower.
-- Unmanaged invasive areas that are contained. Check annually they are contained (no seeds/flowers).
+- Unmanaged invasive areas that are contained. Check annually (no seeds/flowers/vine runners).
 
 Note: example of unmanaged invasive is wintercreeper with no trees, or a smothered area.
 
 #### Divide and Conquer
 
-<p style="text-align:left">Require focus:</p>
+<p style="text-align:left">And what requires focus:</p>
 
 - Managed native areas that are progressing into wild but still require weeding and invasive removal.
 - Managed invasive areas should immediately be converted into managed native or unmanaged invasive by containment.
@@ -334,13 +339,13 @@ Note: Used by Dept. of Land Stewardship. Alt method is squirt bottle.
 
 #### White Vinegar and Salt
 
-I've experimented with 50% White Vinegar (the regular 3% stuff) and 50% rock salt. Seems to kill growth of that stem.
+I've experimented with 50% White Vinegar (the regular 3% stuff) and 50% rock salt. Seems to kill growth of that stem, but not entire plant.
 
 ### Removal
 
 Remove a plant from an area through mechanical means.
 
-Use when you have strength and soil is wet
+Use when you have strength, soil is wet, and have Bio Material Handling
 
 Note: don't hurt yourself!
 
@@ -348,21 +353,38 @@ Note: don't hurt yourself!
 
 <p style="text-align:left">Tend to do fine pulling by hand:</p>
 
-- Key is to get all of the root!
+- Key is to get all of the root! Yank at the base, if it snaps dig up the root
 - Delicate plants like Creeping Thistle and Japanese Knotweed can sometimes be pulled by hand when the soil is very wet without much fuss.
 - Sometimes I first loosen with a quick trowel jab.
 - For strong roots like Amur Honeysuckle saplings you can yank away.
 
-#### Plants >2'
+#### Plants >2 and <4'
 
 <p style="text-align:left">Requires strategy:</p>
+
+- Usually trunk is less than 1" and the root system can be cut with vigorous shoveling
+- Jab shovel every few inches about 4" away from center
+- Pry with shovel while pulling vigorously
+- Easier when soil is wet.
+
+#### Plants >4'
+
+<p style="text-align:left">Requires more strategy:</p>
 
 - First, cut the canopy down to the ground. Loppers are preferred tool.
 - Dig surrounding the stump about 1' away from center. If shovel can't cut the root dig until roots are exposed and use loppers.
 - Pry up with bar.
-- Easier when soil is wet.
+
+Tips:
+
 - Be careful! Know when its too big.
 - Regular stretching and exercise can boost your skill.
+- Easier when soil is wet.
+
+#### Vines
+
+- Sweet Autumn Clematis you can role each strand into a ball, find root ball, and dig about 12" down to get root ball
+- English Ivy and Wintercreeper are impossible, there isn't a root ball; use another method like Exhaustion
 
 ### Legal Understanding
 
@@ -430,9 +452,12 @@ Use when you want to minimize effort and maximize ecological benefit
 - Mark your calendar to bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/) Oct 5, 2024
 
 <!--
+
 Visual aids to consider:
 - leather gloves, polyester shirt/pants, hat
 - triclopyr stuff: dauber bottle, tool to open them, gloves, squirt bottle
+- trowel, shovel, pry bar
+- photo of burn barrel
 
 TODO:
 - am I liable for https://www.in.gov/dnr/rules-and-regulations/invasive-species/terrestrial-invasive-species-plants/ ?
@@ -453,6 +478,6 @@ Ultimately, you decide the future of the species.
 
 60% of land is private so despite what any USDA or IISC list says is invasive they won't do anything about plants in your yard.
 
-Our singular focus is non-native invasive plants that are unquestionably harmful to the native ecosystem. -->
+Our singular focus is non-native invasive plants that are unquestionably harmful to the native ecosystem.
 
 -->
