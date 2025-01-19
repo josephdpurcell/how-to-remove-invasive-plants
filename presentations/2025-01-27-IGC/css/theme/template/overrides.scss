@@ -10,3 +10,24 @@
 .text-sm {
   font-size: 80%;
 }
+
+section > section {
+  padding-top: 1em;
+
+  h3,
+  h4 {
+    text-align: left;
+  }
+}
+
+section {
+  text-align: left;
+}
+
+.subsection-breadcrumb {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 0.5em;
+  opacity: 80%;
+}

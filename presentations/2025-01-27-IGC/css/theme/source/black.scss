@@ -19,21 +19,29 @@ $backgroundColor: #191919;
 $mainColor: #fff;
 $headingColor: #fff;
 
-$mainFontSize: 42px;
+/** used to be 42px */
+$mainFontSize: 36px;
 $mainFont: "Source Sans Pro", Helvetica, sans-serif;
 $headingFont: "Source Sans Pro", Helvetica, sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
-$headingTextTransform: uppercase;
+$headingTextTransform: none;
 $headingFontWeight: 600;
 $linkColor: #42affa;
 $linkColorHover: color.scale($linkColor, $lightness: 15%);
 $selectionBackgroundColor: rgba($linkColor, 0.75);
 
+/** OLD:
 $heading1Size: 2.5em;
 $heading2Size: 1.6em;
 $heading3Size: 1.3em;
 $heading4Size: 1em;
+*/
+
+$heading1Size: 2.4em;
+$heading2Size: 2.4em;
+$heading3Size: 2em;
+$heading4Size: 1.2em;
 
 // Change text colors against light slide backgrounds
 @include light-bg-text-color(#222);

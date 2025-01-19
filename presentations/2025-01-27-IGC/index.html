@@ -42,6 +42,25 @@
 
         // Learn about plugins: https://revealjs.com/plugins/
         plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+      }).then(() => {
+        const h3s = document.querySelectorAll("section > section > h3");
+        h3s.forEach((h3) => {
+          const parentSection = h3.closest("section").parentElement;
+          const h3Text = h3.textContent;
+
+          const sections = parentSection.querySelectorAll(
+            "section:not(:first-child)"
+          );
+          sections.forEach((subSection) => {
+            // Create the new <div> element
+            const div = document.createElement("div");
+            div.className = "subsection-breadcrumb";
+            div.textContent = h3Text;
+
+            // Add the new <div> as the first child of the subsection
+            subSection.insertBefore(div, subSection.firstChild);
+          });
+        });
       });
     </script>
   </body>

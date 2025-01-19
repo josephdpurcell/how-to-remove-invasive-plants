@@ -4,6 +4,13 @@
  * By Hakim El Hattab, http://hakim.se
  */
 @import url(./fonts/source-sans-pro/source-sans-pro.css);
+/** used to be 42px */
+/** OLD:
+$heading1Size: 2.5em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1em;
+*/
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #222;
 }
@@ -14,7 +21,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 :root {
   --r-background-color: #191919;
   --r-main-font: Source Sans Pro, Helvetica, sans-serif;
-  --r-main-font-size: 42px;
+  --r-main-font-size: 36px;
   --r-main-color: #fff;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
@@ -22,14 +29,14 @@ section.has-light-background, section.has-light-background h1, section.has-light
   --r-heading-color: #fff;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;
-  --r-heading-text-transform: uppercase;
+  --r-heading-text-transform: none;
   --r-heading-text-shadow: none;
   --r-heading-font-weight: 600;
   --r-heading1-text-shadow: none;
-  --r-heading1-size: 2.5em;
-  --r-heading2-size: 1.6em;
-  --r-heading3-size: 1.3em;
-  --r-heading4-size: 1em;
+  --r-heading1-size: 2.4em;
+  --r-heading2-size: 2.4em;
+  --r-heading3-size: 2em;
+  --r-heading4-size: 1.2em;
   --r-code-font: monospace;
   --r-link-color: #42affa;
   --r-link-color-dark: rgb(19.8216494845, 155.4536082474, 248.7783505155);
@@ -367,4 +374,24 @@ section.has-light-background, section.has-light-background h1, section.has-light
 
 .text-sm {
   font-size: 80%;
+}
+
+section > section {
+  padding-top: 1em;
+}
+section > section h3,
+section > section h4 {
+  text-align: left;
+}
+
+section {
+  text-align: left;
+}
+
+.subsection-breadcrumb {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 0.5em;
+  opacity: 80%;
 }
