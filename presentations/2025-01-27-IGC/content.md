@@ -8,6 +8,14 @@ January 27, 2025
 
 By Joseph D. Purcell
 
+<div class="qrcode">
+
+![qrcode](how-to-remove-invasive-plants-qrcode.png)
+
+[Link to slides](https://josephdpurcell.github.io/how-to-remove-invasive-plants/presentations/2025-01-27-IGC/index.html)
+
+</div>
+
 ## About Me <!-- omit in toc -->
 
 I am a hobbyist, not an expert.
@@ -20,23 +28,10 @@ Note: I work at Five9 as a Software Engineer
 - You know the importance of getting rid of invasive plants (impact on parks and ecosystem)
 - You take ownership over your space(s) and want to do better
 
-<!-- TODO: move this to the end as closing thoughts -->
-
-<!-- TODO decide on this
-Not Included
-
-
-- How is the native ecosystem adapting to non-native invasive species?
-- Why do non-native species tend to be invasive?
-- Why are invasive plants still being sold? (eg. Dammann's)
-- Why do people buy and cultivate invasive plants?
-
--->
-
 ## Overview <!-- omit in toc -->
 
 <!--
-Use VSCode Markdown All In One to generate TOC:
+You can use VSCode Markdown All In One to generate TOC:
     "markdown.extension.toc.levels": "2..3",
     "markdown.extension.toc.plaintext": true
 -->
@@ -62,21 +57,6 @@ Use VSCode Markdown All In One to generate TOC:
 - Start Today
 
 </div>
-
-<!--
-TODO incoprote
- omit in toc
-
-<div class="slide-image">
-
-![mars](mars.png)
-
-Source: unsplash
-
-Note: can invasive plants exist on mars? We're not on Mars, they can on Earth
-</div>
-
--->
 
 ## Terminology
 
@@ -110,12 +90,12 @@ Example: my childhood forrest is now Vinca. Its beauty doesn't outweigh the cost
 
 ### Managed vs Unmanaged
 
-A managed planting area has humans shaping the ecosystem.
+A managed area requires human upkeep.
 
-An unmanaged planting area is wild; it does not have humans shaping the ecosystem.
+An unmanaged area requires little or no human involvement (eg. a day a year to audit).
 
 <p class="fragment">
-Example: that forrest is unmanaged, but the home and farm nearby where the Vinca came from is managed.
+Example: my childhood forrest is unmanaged, but the home and farm nearby where the Vinca came from is managed.
 </p>
 
 ### Invasive vs Non-Invasive
@@ -126,9 +106,13 @@ Non-invasive species are neutral or positive. (eg. Tomatoes)
 
 Resources: [IISC](https://ag.purdue.edu/department/entm/iisc/), [GISD](https://www.iucngisd.org/gisd/), [NISIC](https://www.invasivespeciesinfo.gov/terrestrial/plants), [NatureServe](https://explorer.natureserve.org/)
 
-<p class="fragment">
-Question: Trumpet Vine is a native, but is considered invasive in managed areas and non-invasive in unmanaged areas?
-</p>
+### Perspective Matters <!-- omit in toc -->
+
+Trumpet Vine is a non-invasive native in Indiana ([USDA](https://plants.usda.gov/plant-profile/CARA2), [Natureserve](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.148989/Campsis_radicans)).
+
+In practice some call it invasive because it invades managed areas (eg. gardens).
+
+Poison Ivy is native...
 
 ## Skills
 
@@ -168,7 +152,7 @@ Burning them into biochar terminates them, is carbon neutral ([link](https://sus
 
 #### Bagging
 
-If the plant has gone to seed/fruit make sure you bag it immediately on site.
+If the plant has gone to seed/fruit make sure you bag it immediately on site using non-porous bag (eg. plastic).
 
 Treat it as a hazardous material.
 
@@ -176,39 +160,16 @@ Don't leave it in the bag to mold.
 
 ### Displacement
 
-Force invasive plants out of their occupied space by promoting native plants.
+Prevent invasive plants from occupying a space.
 
 Use when there is vacant space (Exhaustion, Removal)
 
-#### Biotic Resistance!
+#### Methods
 
-It's a numbers game:
+Two main methods:
 
-- American Black Raspberry > Wintercreeper, Sweet Autumn Clematis
-- Riverbank Grapevine > Wintercreeper
-- Goldenrod > Wintercreeper, Amur Honeysuckle
-
-#### Buy Natives
-
-Good luck buying natives!
-
-- Stores primarily carry non-natives and hybrids/cultivars. 🤯
-- 1-2x/yr INSP and Indy Parks Alliance have a sale.
-- Cost prohibitive, $5/plant gets expensive quickly.
-- Don't trust the label, know your source.
-  - I bought Red Mulberry that PPDL diagnosed as White, <br /> yes the illegal one.
-
-#### Grow Natives
-
-Grow from seed. You can harvest seeds at state parks.
-
-Propagate from other plants.
-
-Transfer from other yards.
-
-#### Convert to Barren
-
-Convert areas you can't manage to barren areas, eg. rocks, grass, parking lots, buildings.
+1. Convert to barren areas, eg. rocks, grass, parking lots, buildings.
+2. Convert to native areas, see also "Wilding".
 
 ### Exhaustion
 
@@ -257,7 +218,7 @@ Note: Only need to sufficiently identify, doesn't have to be species.
 
 #### Observe
 
-Look around. Invasive plants are obvious.
+Look around. Invasive plants are obvious. (All around Irvington Circle, Pennsy Trail, yards).
 
 - Does it turn green before anything else and stay green longer?
 - Do birds know how to nest in it or eat its fruit/seed? (Question of nutritional content)
@@ -339,7 +300,7 @@ Use when drastic measures are required
 
 (cancer analogy: destructive means for greater good)
 
-#### Triclopr
+#### Triclopyr
 
 CAUTION! Poison is poison, handle accordingly!
 
@@ -407,28 +368,33 @@ Understand the legal constraints of invasive plant removal.
 
 Use when you have a yard
 
-#### Mowing
+#### Legal Bias Favorable to Invasives
 
-- You can mow diligently and still have invasive plants:
-  - You must also treat trees, eg. Wintercreeper all around South Irvington Circle
-  - If not frequent enough some plants will seed quickly, eg. Garlic Mustard
-- Mowing, generally, is an effective method of Exhaustion
+- It's legal and encouraged to mow everything, which creates the Displacement areas favorable to invasive plants:
+  - "neat lawn" aesthetic is favorable to invasive characteristics
+  - Disturbed areas by roads and fences are ideal for invasives
+- It's legal to grow invasive plants, which can happen even if you mow
+  - Plants that don't look like weeds (eg. Black Locust, Amur Honeysuckle, White Mulberry, Tree of Heaven)
+  - Vines (Wintercreeper, English Ivy, Sweet Autumn Clematis)
+  - Extremely fast seeders (Garlic Mustard)
 
-#### Not-Mowing (eg. Displacement or Wilding)
+#### Business & Neighborhood Services (BNS)
 
 <span style="text-align:left">
 
-Many natives are taller than 12" which are illegal due to [Indianapolis Code of Ordinances Section 575-2](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances?nodeId=TITIIIPUHEWE_CH575ENPUNU_ARTIINGE_S575-2DE):
+All vegetation taller than 12" is illegal due to [Indianapolis Code of Ordinances Section 575-2](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances?nodeId=TITIIIPUHEWE_CH575ENPUNU_ARTIINGE_S575-2DE):
 
 </span>
 
-- BNR runs a whistleblower service May 1 to Oct 31
-- Violations can be $2,000 per day (depending on dept. pursuing you)
-- City can enter your property to mow and bill you, and failure to apy can become a lien
+- Whistleblower service May 1 to Oct 31
+- City can enter your property to mow and bill you (min. $383)
+- Civil enforcement up to $2,500 per day plus court costs
+- Dismissal of a violation does not abate future violations
+- Failure to pay can become a lien
 
-#### Not-Mowing (eg. Displacement or Wilding)
+#### BNS Exemptions
 
-<p style="text-align:left">Exceptions to the rule are:</p>
+<p style="text-align:left">Exemptions to the rule are:</p>
 
 1. Farming, gardening, horticulture (1)
 2. The native area is 150' from an occupied building and health department says it's OK (4)
@@ -437,21 +403,54 @@ Many natives are taller than 12" which are illegal due to [Indianapolis Code of 
 
 Note: if someone is out to get you your only defense is to get an area registered
 
-#### Buying Invasives
+#### Health Department
 
-As of 2020 it's "illegal to sell, gift, barter, exchange, distribute, transport, or introduce" invasive plants ([link](https://www.in.gov/dnr/rules-and-regulations/invasive-species/)). But, only those flagged as illegal.
+Health Department's [Health and Hospital Code Sec. 10-301, 10-302, 10-303](https://marionhealth.org/resources/) is general "cut and dispose of high weeds and grass" to avoid conditions in which "rodents, mosquitoes, or vectors have food, shelter, or a breeding place".
 
-You can still buy invasives at Dammann's (eg. English Ivy, Sweet Autumn Clematis).
+- No exemptions
+- Penalty up to $250 and/or enforcement case up to $2,500 per violation per day
+- Health Dept. can enter your property to "correct" and bill you for costs
+- Failure to pay can become a lien
+
+#### Commercial Bias Favorable to Invasives
+
+As of 2020 it's "illegal to sell, gift, barter, exchange, distribute, transport, or introduce" invasive plants ([link](https://www.in.gov/dnr/rules-and-regulations/invasive-species/)).
+
+But, only those flagged as illegal which only happens when there's proof of an issue.
+
+- Market will always be faster than legislation.
+- People want novel plants and growing characteristics that favor invasive characteristics.
+- Native plants are hard to find and are costly.
+- Invasive plants don't have to be removed for sale of property
+
+#### Commercial Bias Favorable to Invasives
+
+Example of the bias: you can still buy commonly considered invasives at Dammann's:
+
+- "Beautiful, showy clematis are not as difficult to grow as you might think" ([Accessed Jan 20, 2025](https://dammanns.com/2022/08/30/clematis/))
+- "English Ivy makes a fine choice for the outdoor landscape" ([Accessed Jan 20, 2025](http://plants.dammannsgardenco.com/12130021/Plant/201/English_Ivy/))
+
+#### Commercial Bias Favorable to Invasives
+
+What percentage of Dammann's inventory is native?
 
 <div class="fragment">
 
-It's not illegal to have invasives on your property and sell it, eg. many people cultivate Amur Honeysuckle.
+<p style="font-size:300%;margin-left:2em">< 5%</p>
+
+</div>
+
+<div style="font-size:50%">
+
+Source: [http://plants.dammannsgardenco.com/12130021/SiteMapXML](http://plants.dammannsgardenco.com/12130021/SiteMapXML), analyzed by eyeballing and using an LLM (Claude by Anthropic)
+
+Note: how many of these will end up on the invasive list?
 
 </div>
 
 ### Wilding
 
-Dedicate an area to become an unmanaged native area.
+Prevent invasive plants from occupying a space through biotic resistance.
 
 Use when you want to minimize effort and maximize ecological benefit
 
@@ -462,11 +461,37 @@ Use when you want to minimize effort and maximize ecological benefit
   - Notice they congregate around fences, suburbs, and highways?
 - Remove anything that prevents native growth (eg invasive plants, trash)
 
+#### Biotic Resistance!
+
+It's a numbers game:
+
+- American Black Raspberry > Wintercreeper, Sweet Autumn Clematis
+- Riverbank Grapevine > Wintercreeper
+- Goldenrod > Wintercreeper, Amur Honeysuckle
+
+#### Buy Natives
+
+Good luck buying natives!
+
+- Stores primarily carry non-natives and hybrids/cultivars. 🤯
+- 1-2x/yr INSP and Indy Parks Alliance have a sale.
+- Cost prohibitive, $5 for a single plant gets expensive quickly.
+- Don't trust the label, know your source.
+  - I bought Red Mulberry that PPDL diagnosed as White, <br /> yes the illegal one.
+
+#### Grow Natives
+
+Grow from seed. You can harvest seeds at state parks.
+
+Propagate from other plants.
+
+Transfer from other yards.
+
 ## Start Today
 
-- Download Seek
-- Follow Indy Parks Alliance and INPS for native plant sales
-- Mark your calendar to bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/) Oct 5, 2024
+- Download [Seek app](https://www.inaturalist.org/pages/seek_app) (Apple and Android)
+- Follow [Indy Parks Alliance](https://www.parks-alliance.org/) and [INPS](https://indiananativeplants.org/) for native plant sales
+- Mark your calendar: <br /> Bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/) on Oct 5, 2024
 
 ## Et Tu, Gato? <!-- omit in toc -->
 
@@ -482,9 +507,30 @@ How to treat:
 
 ## Resources <!-- omit in toc -->
 
+<div style="font-size:80%">
+
+- [Seek app](https://www.inaturalist.org/pages/seek_app) and [iNaturalist](https://www.inaturalist.org/) website
 - [State of Indiana Cooperative Invasives Management](https://www.sicim.info/)
   - [Circle City CISMA](https://circlecitycisma.org/)
-- [Indiana Invasive Species Council](https://ag.purdue.edu/department/entm/iisc/)
+- [Indiana Invasive Species Council (IISC)](https://ag.purdue.edu/department/entm/iisc/)
+- [Biota of North America Program (BONAP](http://www.bonap.org/)
+- [United States Dept. of Agriculture (USDA) Plant Database](https://plants.usda.gov/)
+- [Integrated Taxonomic Information System (ITIS)](https://www.itis.gov/)
+- [Global Invasive Species Database (GISD)](https://www.iucngisd.org/gisd/)
+- [National Invasive Species Information Center (NISIC)](https://www.invasivespeciesinfo.gov/terrestrial/plants)
+- [NatureServe](https://explorer.natureserve.org/)
+- [Indy Parks Alliance](https://www.parks-alliance.org/)
+- [Indiana Native Plant Society (INPS)](https://indiananativeplants.org/)
+
+</div>
+
+<div class="qrcode">
+
+![qrcode](how-to-remove-invasive-plants-qrcode.png)
+
+[Link to slides](https://josephdpurcell.github.io/how-to-remove-invasive-plants/presentations/2025-01-27-IGC/index.html)
+
+</div>
 
 <!--
 
@@ -494,19 +540,9 @@ Visual aids to consider:
 - trowel, shovel, pry bar
 - photo of burn barrel
 
-TODO:
-- am I liable for https://www.in.gov/dnr/rules-and-regulations/invasive-species/terrestrial-invasive-species-plants/ ?
-
-
 
 
 NOTES to maybe include?
-
-
-- What about native Trumpet Vine and Goldenrod or non-native Dandylion and White Clover?
-- How bad does it have to be to be invasive?
-- Is a grass yard with 20% natives worse than a native yard but 20% invasives?
-- How much of the USDA and IISC invasive lists are driven by economics versus ecology?
 
 
 Ultimately, you decide the future of the species.
