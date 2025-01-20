@@ -413,3 +413,20 @@ h3[id=""],
 h4[id=""] {
   display: none;
 }
+
+.qrcode {
+  position: absolute;
+  right: 0;
+  top: 100%;
+  margin-top: -196px;
+}
+.qrcode img {
+  margin: 0;
+  padding: 0;
+}
+.qrcode p {
+  font-size: 16px;
+  font-style: italic;
+  margin: 0;
+  padding: 0;
+}
