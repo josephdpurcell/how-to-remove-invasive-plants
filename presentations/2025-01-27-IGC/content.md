@@ -1,5 +1,7 @@
 # Invasive Plant Removal
 
+<h1>On Residential Property</h1>
+
 Irvington Garden Club
 
 January 27, 2025
@@ -61,17 +63,20 @@ Use VSCode Markdown All In One to generate TOC:
 
 </div>
 
-## <!-- omit in toc -->
+<!--
+TODO incoprote
+ omit in toc
 
 <div class="slide-image">
 
 ![mars](mars.png)
 
-<!-- Source: unsplash -->
+Source: unsplash
 
 Note: can invasive plants exist on mars? We're not on Mars, they can on Earth
-
 </div>
+
+-->
 
 ## Terminology
 
@@ -119,7 +124,7 @@ Invasive species result in net-negative benefit for an ecosystem. (eg. Wintercre
 
 Non-invasive species are neutral or positive. (eg. Tomatoes)
 
-Resources: [GISD](https://www.iucngisd.org/gisd/), [NISIC](https://www.invasivespeciesinfo.gov/terrestrial/plants), [NatureServe](https://explorer.natureserve.org/)
+Resources: [IISC](https://ag.purdue.edu/department/entm/iisc/), [GISD](https://www.iucngisd.org/gisd/), [NISIC](https://www.invasivespeciesinfo.gov/terrestrial/plants), [NatureServe](https://explorer.natureserve.org/)
 
 <p class="fragment">
 Question: Trumpet Vine is a native, but is considered invasive in managed areas and non-invasive in unmanaged areas?
@@ -175,25 +180,35 @@ Force invasive plants out of their occupied space by promoting native plants.
 
 Use when there is vacant space (Exhaustion, Removal)
 
-#### Promote Strong Natives
+#### Biotic Resistance!
+
+It's a numbers game:
 
 - American Black Raspberry > Wintercreeper, Sweet Autumn Clematis
 - Riverbank Grapevine > Wintercreeper
-- Goldenrod > Wintercreeper
+- Goldenrod > Wintercreeper, Amur Honeysuckle
 
-#### Keep Adding Natives
+#### Buy Natives
 
-It's a numbers game.
+Good luck buying natives!
 
-Good luck finding natives for sale! Once or twice a year there's a sale, see INSP and Indy Parks Alliance.
+- Stores primarily carry non-natives and hybrids/cultivars. 🤯
+- 1-2x/yr INSP and Indy Parks Alliance have a sale.
+- Cost prohibitive, $5/plant gets expensive quickly.
+- Don't trust the label, know your source.
+  - I bought Red Mulberry that PPDL diagnosed as White, <br /> yes the illegal one.
 
-Don't trust the label, know your source. I bought Red Mulberry that PPDL diagnosed as White Mulberry, and WDNR issued stop order for nursery.
+#### Grow Natives
 
-Grow from seed. You can harvest seeds at parks.
+Grow from seed. You can harvest seeds at state parks.
 
-Propagate.
+Propagate from other plants.
 
 Transfer from other yards.
+
+#### Convert to Barren
+
+Convert areas you can't manage to barren areas, eg. rocks, grass, parking lots, buildings.
 
 ### Exhaustion
 
@@ -424,7 +439,9 @@ Note: if someone is out to get you your only defense is to get an area registere
 
 #### Buying Invasives
 
-As of 2020 it's "illegal to sell, gift, barter, exchange, distribute, transport, or introduce" invasive plants ([link](https://www.in.gov/dnr/rules-and-regulations/invasive-species/)).
+As of 2020 it's "illegal to sell, gift, barter, exchange, distribute, transport, or introduce" invasive plants ([link](https://www.in.gov/dnr/rules-and-regulations/invasive-species/)). But, only those flagged as illegal.
+
+You can still buy invasives at Dammann's (eg. English Ivy, Sweet Autumn Clematis).
 
 <div class="fragment">
 
@@ -450,6 +467,24 @@ Use when you want to minimize effort and maximize ecological benefit
 - Download Seek
 - Follow Indy Parks Alliance and INPS for native plant sales
 - Mark your calendar to bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/) Oct 5, 2024
+
+## Et Tu, Gato? <!-- omit in toc -->
+
+Cats are an invasive species if you let them outside.
+
+How to treat:
+
+- Put them inside
+- Confined outdoor space (eg electric fence or leash)
+- Reduce the amount of time outside (eg keep indoors early morning and late afternoon when birds feed)
+- Attach a bell to its collar to alert wildlife
+- Use a collar that visually alerts wildlife (eg Birdsbesafe)
+
+## Resources <!-- omit in toc -->
+
+- [State of Indiana Cooperative Invasives Management](https://www.sicim.info/)
+  - [Circle City CISMA](https://circlecitycisma.org/)
+- [Indiana Invasive Species Council](https://ag.purdue.edu/department/entm/iisc/)
 
 <!--
 
