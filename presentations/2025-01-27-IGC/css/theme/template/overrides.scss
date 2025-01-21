@@ -1,9 +1,13 @@
-.list--two-col > ul > li > ul {
-  column-count: 2;
-  column-gap: 1em;
+.list--two-col > ol,
+.list--two-col > ul {
+  li > ol,
+  li > ul {
+    column-count: 2;
+    column-gap: 1em;
 
-  li {
-    margin-left: 1em;
+    li {
+      margin-left: 1em;
+    }
   }
 }
 

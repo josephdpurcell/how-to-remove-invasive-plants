@@ -1,6 +1,10 @@
 {
-    "markdown.extension.toc.levels": "2..3",
-    "markdown.extension.toc.plaintext": true,
-    "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "markdown.extension.toc.levels": "2..3",
+  "markdown.extension.toc.plaintext": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[markdown]": {
+    "outline.showStrings": true
+  },
+  "markdown.extension.toc.updateOnSave": false
 }

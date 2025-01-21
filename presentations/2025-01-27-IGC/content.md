@@ -44,17 +44,19 @@ You can use VSCode Markdown All In One to generate TOC:
   - Managed vs Unmanaged
   - Invasive vs Non-Invasive
 - Skills
-  - Bio Material Handling
-  - Displacement
-  - Exhaustion
-  - Identification
-  - Perseverance
-  - Planning
-  - Poison
-  - Removal
-  - Legal Understanding
-  - Wilding
+  1.  Bio Material Handling
+  2.  Displacement
+  3.  Exhaustion
+  4.  Identification
+  5.  Perseverance
+  6.  Planning
+  7.  Poison
+  8.  Removal
+  9.  Legal Understanding
+  10. Wilding
 - Start Today
+
+Hint: Invasive plants have net-negative benefit for the native ecosystem, there are 10 skills to combat them with, and today you can get the Seek app to identify them,
 
 </div>
 
@@ -122,7 +124,7 @@ Skills are how you get rid of invasive plants.
 - When to use it
 - How to apply it
 
-### Bio Material Handling
+### 1. Bio Material Handling
 
 Handle bio material safely and with control.
 
@@ -132,7 +134,7 @@ Use when interacting with plants (Exhaustion, Poison, Removal)
 
 You will encounter toxins, thorns, and burrs.
 
-(eg. myocarditis from Tree of Heaven sap)
+(eg. myocarditis from Tree of Heaven sap entering bloodstream via open blisters)
 
 <p style="text-align:left">Clothing to consider:</p>
 
@@ -158,7 +160,7 @@ Treat it as a hazardous material.
 
 Don't leave it in the bag to mold.
 
-### Displacement
+### 2. Displacement
 
 Prevent invasive plants from occupying a space.
 
@@ -168,10 +170,10 @@ Use when there is vacant space (Exhaustion, Removal)
 
 Two main methods:
 
-1. Convert to barren areas, eg. rocks, grass, parking lots, buildings.
+1. Convert to barren areas, eg. rocks, mulch, parking lots, buildings.
 2. Convert to native areas, see also "Wilding".
 
-### Exhaustion
+### 3. Exhaustion
 
 Reduce a plant's energy stores, reproductive means, access to food, or energy production through mechanical means.
 
@@ -208,7 +210,7 @@ For plants that don't seed/fruit in their first year (eg White Mulberry) you can
 
 Note: I do precision cutting with White Mulberry, Japanese Knotweed, vines that climb (English Ivy, Wintercreeper), Creeping Thistle.
 
-### Identification
+### 4. Identification
 
 Sufficiently determine a plant is invasive.
 
@@ -243,18 +245,18 @@ Requires higher level of skill and more datapoints.
 
 Contributes to research!
 
-#### PPDL
+#### Genetic Testing
 
 <div style="text-align:left">
 
-The [Purdue Plant and Pest Diagnostics Lab](https://ag.purdue.edu/department/btny/ppdl/) can identify in two ways:
+The [Purdue Plant and Pest Diagnostics Lab (PPDL)](https://ag.purdue.edu/department/btny/ppdl/) can identify in two ways:
 
 </div>
 
 - Photo Samples (similar to iNaturalist)
 - Physical Samples (DNA test)
 
-### Perseverance
+### 5. Perseverance
 
 Continue removal efforts despite adversity or inability to envision success.
 
@@ -270,7 +272,7 @@ Use when you put forth any substantial effort
 
 Note: someone named Liz overheard me and went on a rant about how hard it is to promote native plants
 
-### Planning
+### 6. Planning
 
 Optimize effort to maximize ecological benefit.
 
@@ -293,13 +295,17 @@ Note: example of unmanaged invasive is wintercreeper with no trees, or a smother
 - Managed native areas that are progressing into wild but still require weeding and invasive removal.
 - Managed invasive areas should immediately be converted into managed native or unmanaged invasive by containment.
 
-### Poison
+### 7. Poison
 
 Reduce a plant's energy stores, reproductive means, access to food, or energy production through chemical means.
 
 Use when drastic measures are required
 
 (cancer analogy: destructive means for greater good)
+
+#### Herbicide Calendar
+
+State of Indiana Cooperative Invasives Management (SICIM) has an herbicide calendar for most effective treatment and other resources ([link](https://www.sicim.info/control-and-management)).
 
 #### Triclopyr
 
@@ -318,7 +324,7 @@ Note: Used by Dept. of Land Stewardship. Alt method is squirt bottle.
 
 I've experimented with 50% White Vinegar (the regular 3% stuff) and 50% rock salt. Seems to kill growth of that stem, but not entire plant.
 
-### Removal
+### 8. Removal
 
 Remove a plant from an area through mechanical means.
 
@@ -335,7 +341,7 @@ Note: don't hurt yourself!
 - Sometimes I first loosen with a quick trowel jab.
 - For strong roots like Amur Honeysuckle saplings you can yank away.
 
-#### Plants >2 and <4'
+#### Plants 2-4'
 
 <p style="text-align:left">Requires strategy:</p>
 
@@ -363,13 +369,74 @@ Tips:
 - Sweet Autumn Clematis you can role each strand into a ball, find root ball, and dig about 12" down to get root ball
 - English Ivy and Wintercreeper are impossible, there isn't a root ball; use another method like Exhaustion
 
-### Legal Understanding
+### 9. Legal Understanding
 
 Understand the legal constraints of invasive plant removal.
 
-Use when you have a yard
+Use when you are Bio Materia Handling or Wilding
 
-#### Legal Bias Favorable to Invasives
+#### Vegetation Height: BNS
+
+[Indianapolis Code of Ordinances Section 575-2](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances?nodeId=TITIIIPUHEWE_CH575ENPUNU_ARTIINGE_S575-2DE) mandates vegetation be lower than 12" and is enforced by the Bureau of Neighborhood Services (BNS).
+
+- Whistleblower service May 1 to Oct 31
+- City can enter your property to mow and bill you (min. $383)
+- Civil enforcement up to $2,500 per day plus court costs
+- Dismissal of a violation does not abate future violations
+- Failure to pay can become a lien
+
+#### Vegetation Height: BNS
+
+Exemptions:
+
+1. Farming, gardening, horticulture (1)
+2. The native area is 150' from an occupied building and health department says it's OK (4)
+3. Registered rain garden (6)
+4. Registered native planting area (7)
+
+#### Vegetation Height: Health Department
+
+Health Department's [Health and Hospital Code Sec. 10-301, 10-302, 10-303](https://marionhealth.org/resources/) is general "cut and dispose of high weeds and grass" to avoid conditions in which "rodents, mosquitoes, or vectors have food, shelter, or a breeding place".
+
+- No exemptions
+- Penalty up to $250 and/or enforcement case up to $2,500 per violation per day
+- Health Dept. can enter your property to "correct" and bill you for costs
+- Failure to pay can become a lien
+
+#### Disposal in Trash
+
+- Vegetative matter produces methane in anaerobic environments, so trash is not a good option.
+  - However, [Indiana Code 13-20-9](https://iga.in.gov/laws/2024/ic/titles/13#13-20-9) allows grass or bundled/bagged woody vegetative matter less <3', but not leaves.
+  - Municipalities can establish their own ordinances, I couldn't find one for Marion County.
+  - Illegal dumping can be a fine up to $2,500.
+  - Indy's South Side Landfill captures methane.
+- Dropoff with fee at the [Citizen's Transfer station](https://www.indy.gov/activity/citizens-transfer-station) (Assume it goes to landfill?)
+
+#### Disposal via Composting
+
+Nothing restricts composting at home, however Health Department flagged my piles of sticks and said they need to be in a compost bin. I made 4' diameter circles using 4' tall chicken wire.
+
+Can also dropoff at a [composting facility listed by IDEM](https://www.in.gov/idem/waste/waste-industries/yard-waste-and-composting-facilities/).
+
+#### Disposal via Burning
+
+While allowed by IDEM it advises against open burning citing harm to human health and environment ([link](https://www.in.gov/idem/waste/waste-industries/yard-waste-and-composting-facilities/), [link](https://www.in.gov/idem/openburning/health-risks-and-environmental-impacts/)).
+
+[Indianapolis Code of Ordinances Section 511-703](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances?nodeId=TITIIIPUHEWE_CH511AIPOCO_ARTVIIGEPR_S511-703LIBUSPPU) allows burning dried limbs, twigs, and branches (but not leaves): originating from the property, between 10 am and 3 pm, 15 ft. distance, sufficiently vented with mesh covering max 0.25", and always attended with means to extinguish.
+
+See also [indy.gov](https://www.indy.gov/activity/open-burning) and [in.gov](https://www.in.gov/dhs/get-prepared/fire-safety/open-burning/) for info and tips.
+
+Potential liability or fines if fire causes damages or is unsafe.
+
+#### Legality of Sale and Ownership
+
+Since 2020 the [Indiana Terrestrial Plant Rule 312 IAC 18-3-25](https://iar.iga.in.gov/code/2026/312/18#312-18-3-25) makes it illegal to "sell, offer or grow for sale, gift, barter, exchange, or distribute a species" that's on the list of 44 plants. The only thing you can do if someone owns them is report them to the DNR.
+
+The one exception is Tree of Heaven. [Indianapolis Code of Ordinances Section 391-112](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances/358893?nodeId=TITIIPUORSA_CH391NU_ARTIINGE_S391-112AITRTRHEDENU) saysit is public nuisance and you must "remove it upon notice by the city to do so", which can be enforced with fines. City is expected to remove them.
+
+Note: Can you report Tree of Heaven to the city? What about all those by Butler and E Market?
+
+#### Opinion: Legal Bias Favorable to Invasives
 
 - It's legal and encouraged to mow everything, which creates the Displacement areas favorable to invasive plants:
   - "neat lawn" aesthetic is favorable to invasive characteristics
@@ -379,77 +446,30 @@ Use when you have a yard
   - Vines (Wintercreeper, English Ivy, Sweet Autumn Clematis)
   - Extremely fast seeders (Garlic Mustard)
 
-#### Business & Neighborhood Services (BNS)
+#### Opinion: Commercial Bias Favorable to Invasives
 
-<span style="text-align:left">
-
-All vegetation taller than 12" is illegal due to [Indianapolis Code of Ordinances Section 575-2](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances?nodeId=TITIIIPUHEWE_CH575ENPUNU_ARTIINGE_S575-2DE):
-
-</span>
-
-- Whistleblower service May 1 to Oct 31
-- City can enter your property to mow and bill you (min. $383)
-- Civil enforcement up to $2,500 per day plus court costs
-- Dismissal of a violation does not abate future violations
-- Failure to pay can become a lien
-
-#### BNS Exemptions
-
-<p style="text-align:left">Exemptions to the rule are:</p>
-
-1. Farming, gardening, horticulture (1)
-2. The native area is 150' from an occupied building and health department says it's OK (4)
-3. Registered rain garden (6)
-4. Registered native planting area (7)
-
-Note: if someone is out to get you your only defense is to get an area registered
-
-#### Health Department
-
-Health Department's [Health and Hospital Code Sec. 10-301, 10-302, 10-303](https://marionhealth.org/resources/) is general "cut and dispose of high weeds and grass" to avoid conditions in which "rodents, mosquitoes, or vectors have food, shelter, or a breeding place".
-
-- No exemptions
-- Penalty up to $250 and/or enforcement case up to $2,500 per violation per day
-- Health Dept. can enter your property to "correct" and bill you for costs
-- Failure to pay can become a lien
-
-#### Commercial Bias Favorable to Invasives
-
-As of 2020 it's "illegal to sell, gift, barter, exchange, distribute, transport, or introduce" invasive plants ([link](https://www.in.gov/dnr/rules-and-regulations/invasive-species/)).
-
-But, only those flagged as illegal which only happens when there's proof of an issue.
+Only flagged species are illegal which happens only if there's proof of an issue.
 
 - Market will always be faster than legislation.
 - People want novel plants and growing characteristics that favor invasive characteristics.
 - Native plants are hard to find and are costly.
 - Invasive plants don't have to be removed for sale of property
 
-#### Commercial Bias Favorable to Invasives
+#### Opinion: Commercial Bias Favorable to Invasives
 
-Example of the bias: you can still buy commonly considered invasives at Dammann's:
+[INPS notes](https://indiananativeplants.org/invasive-plants/) nurseries still sell commonly considered invasive species.
 
-- "Beautiful, showy clematis are not as difficult to grow as you might think" ([Accessed Jan 20, 2025](https://dammanns.com/2022/08/30/clematis/))
+Dammann's for example:
+
+- "Beautiful, showy [Sweet Autumn] clematis are not as difficult to grow as you might think" ([Accessed Jan 20, 2025](https://dammanns.com/2022/08/30/clematis/))
 - "English Ivy makes a fine choice for the outdoor landscape" ([Accessed Jan 20, 2025](http://plants.dammannsgardenco.com/12130021/Plant/201/English_Ivy/))
-
-#### Commercial Bias Favorable to Invasives
-
-What percentage of Dammann's inventory is native?
-
-<div class="fragment">
-
-<p style="font-size:300%;margin-left:2em">< 5%</p>
-
-</div>
-
-<div style="font-size:50%">
-
-Source: [http://plants.dammannsgardenco.com/12130021/SiteMapXML](http://plants.dammannsgardenco.com/12130021/SiteMapXML), analyzed by eyeballing and using an LLM (Claude by Anthropic)
+- Plant inventory is <5% native. (Source: [Dammann's Sitemap.xml](http://plants.dammannsgardenco.com/12130021/SiteMapXML), analyzed by eyeballing and using an LLM (Claude by Anthropic))
 
 Note: how many of these will end up on the invasive list?
 
 </div>
 
-### Wilding
+### 10. Wilding
 
 Prevent invasive plants from occupying a space through biotic resistance.
 
@@ -472,13 +492,15 @@ It's a numbers game:
 
 #### Buy Natives
 
-Good luck buying natives!
+_Warning: Buying natives is very hard to do relative to how easy it is to buy nearly anything else imaginable._
 
 - Stores primarily carry non-natives and hybrids/cultivars. 🤯
-- 1-2x/yr INSP and Indy Parks Alliance have a sale.
 - Cost prohibitive, $5 for a single plant gets expensive quickly.
 - Don't trust the label, know your source.
-  - I bought Red Mulberry that PPDL diagnosed as White, <br /> yes the illegal one.
+- March 1 online and May 3-18 in-person is [Indy Urban Acres](https://www.iuaplantsale.com/) plant sale
+- INPS has a [Buy Natives Directory](https://indiananativeplants.org/landscaping/where-to-buy/), an annual auction, and a seed swap at the annual conference
+
+Note: I bought Red Mulberry that PPDL genetic tested as White, yes the illegal one.
 
 #### Grow Natives
 
@@ -488,11 +510,31 @@ Propagate from other plants.
 
 Transfer from other yards.
 
+## Recap <!-- omit in toc -->
+
+<div class="list--two-col text-sm">
+
+- Invasives are net-negative benefit to native ecosystem
+- Skills
+  1.  Bio Material Handling
+  2.  Displacement
+  3.  Exhaustion
+  4.  Identification
+  5.  Perseverance
+  6.  Planning
+  7.  Poison
+  8.  Removal
+  9.  Legal Understanding
+  10. Wilding
+
+</div>
+
 ## Start Today
 
-- Download [Seek app](https://www.inaturalist.org/pages/seek_app) (Apple and Android)
-- Follow [Indy Parks Alliance](https://www.parks-alliance.org/) and [INPS](https://indiananativeplants.org/) for native plant sales
-- Mark your calendar: <br /> Bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/) on Oct 5, 2024
+1. Download [Seek app](https://www.inaturalist.org/pages/seek_app) (Apple and Android)
+2. Take the [Circle City CISMA Survey](https://www.sicim.info/cismas) ([direct link](https://www.surveymonkey.com/r/KQ3TPZQ))
+3. Follow the [SICIM Weed Wrangle calendar](https://www.sicim.info/weed-wrangle-indiana)
+4. Mark your calendar for October 5, 2025 and bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/)
 
 ## Et Tu, Gato? <!-- omit in toc -->
 
@@ -511,17 +553,17 @@ How to treat:
 <div style="font-size:80%">
 
 - [Seek app](https://www.inaturalist.org/pages/seek_app) and [iNaturalist](https://www.inaturalist.org/) website
-- [State of Indiana Cooperative Invasives Management](https://www.sicim.info/)
-  - [Circle City CISMA](https://circlecitycisma.org/)
+- [State of Indiana Cooperative Invasives Management (SICIM) Resources](https://www.sicim.info/control-and-management)
+- [Circle City CISMA](https://circlecitycisma.org/)
 - [Indiana Invasive Species Council (IISC)](https://ag.purdue.edu/department/entm/iisc/)
-- [Biota of North America Program (BONAP](http://www.bonap.org/)
 - [United States Dept. of Agriculture (USDA) Plant Database](https://plants.usda.gov/)
 - [Integrated Taxonomic Information System (ITIS)](https://www.itis.gov/)
 - [Global Invasive Species Database (GISD)](https://www.iucngisd.org/gisd/)
 - [National Invasive Species Information Center (NISIC)](https://www.invasivespeciesinfo.gov/terrestrial/plants)
 - [NatureServe](https://explorer.natureserve.org/)
-- [Indy Parks Alliance](https://www.parks-alliance.org/)
+- [Indy Urban Acres (Indy Parks Alliance)](https://www.parks-alliance.org/projects/indy-urban-acres/)
 - [Indiana Native Plant Society (INPS)](https://indiananativeplants.org/)
+- [Global Invasive Species Team Resources](https://www.invasive.org/gist/control.html) <br /><span style="font-size:80%">Weed Control Methods Handbook and Tool Reviews</span>
 
 </div>
 
