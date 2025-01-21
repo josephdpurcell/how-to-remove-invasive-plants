@@ -263,6 +263,7 @@ Use when you put forth any substantial effort
 #### Tips on Persevering
 
 - Think in geological time. You may not see results in your lifetime.
+- 1 plant at a time. 1 year at a time.
 - Remember first principles: do it because it's right, not because it's easy or for results
 - Community support: you aren't alone in the struggle
 - Don't do it alone: invasive removal is a communal effort
