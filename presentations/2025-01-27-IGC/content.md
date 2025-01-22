@@ -510,6 +510,16 @@ Propagate from other plants.
 
 Transfer from other yards.
 
+#### Register
+
+Fill out the [Dept. of Land Stewardship](https://www.indy.gov/activity/land-stewardship) form by listing
+
+At least 70% native and maintained according to guide
+
+Post the "Registered Native Planting Area" sign
+
+Re-register every 3 years
+
 ## Recap <!-- omit in toc -->
 
 <div class="list--two-col text-sm">
