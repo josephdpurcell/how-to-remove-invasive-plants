@@ -54,9 +54,15 @@ You can use VSCode Markdown All In One to generate TOC:
   8.  Removal
   9.  Legal Understanding
   10. Wilding
+- Non-Native Naughty List
+  1. Amur Honeysuckle
+  2. Fortune's Spindle
+  3. Sweet Autumn Clematis
+  4. White Mulberry
+  5. Tree of Heaven
 - Start Today
 
-Hint: Invasive plants have net-negative benefit for the native ecosystem, there are 10 skills to combat them with, and today you can get the Seek app to identify them,
+Note: Invasive plants have net-negative benefit for the native ecosystem, there are 10 skills to combat them with, and today you can get the Seek app to identify them,
 
 </div>
 
@@ -102,7 +108,7 @@ Example: my childhood forrest is unmanaged, but the home and farm nearby where t
 
 ### Invasive vs Non-Invasive
 
-Invasive species result in net-negative benefit for an ecosystem. (eg. Wintercreeper)
+Invasive species result in net-negative benefit for an ecosystem. (eg. Fortune's Spindle)
 
 Non-invasive species are neutral or positive. (eg. Tomatoes)
 
@@ -208,7 +214,7 @@ Range from precision (loppers/clippers/snips) to annihilation (mowing/weed eatin
 
 For plants that don't seed/fruit in their first year (eg White Mulberry) you can precision cut once after spring growth and again in fall before winter. Repeat annually.
 
-Note: I do precision cutting with White Mulberry, Japanese Knotweed, vines that climb (English Ivy, Wintercreeper), Creeping Thistle.
+Note: I do precision cutting with White Mulberry, Japanese Knotweed, vines that climb (English Ivy, Fortune's Spindle), Creeping Thistle.
 
 ### 4. Identification
 
@@ -286,7 +292,7 @@ Use when you have more work than time
 - Unmanaged native areas that are wild. Check annually before invasives seed/flower.
 - Unmanaged invasive areas that are contained. Check annually (no seeds/flowers/vine runners).
 
-Note: example of unmanaged invasive is wintercreeper with no trees, or a smothered area.
+Note: example of unmanaged invasive is Fortune's Spindle with no trees, or a smothered area.
 
 #### Divide and Conquer
 
@@ -367,7 +373,7 @@ Tips:
 #### Vines
 
 - Sweet Autumn Clematis you can role each strand into a ball, find root ball, and dig about 12" down to get root ball
-- English Ivy and Wintercreeper are impossible, there isn't a root ball; use another method like Exhaustion
+- English Ivy and Fortune's Spindle are impossible, there isn't a root ball; use another method like Exhaustion
 
 ### 9. Legal Understanding
 
@@ -443,7 +449,7 @@ Note: Can you report Tree of Heaven to the city? What about all those by Butler 
   - Disturbed areas by roads and fences are ideal for invasives
 - It's legal to grow invasive plants, which can happen even if you mow
   - Plants that don't look like weeds (eg. Black Locust, Amur Honeysuckle, White Mulberry, Tree of Heaven)
-  - Vines (Wintercreeper, English Ivy, Sweet Autumn Clematis)
+  - Vines (Fortune's Spindle, English Ivy, Sweet Autumn Clematis)
   - Extremely fast seeders (Garlic Mustard)
 
 #### Opinion: Commercial Bias Favorable to Invasives
@@ -486,9 +492,9 @@ Use when you want to minimize effort and maximize ecological benefit
 
 It's a numbers game:
 
-- American Black Raspberry > Wintercreeper, Sweet Autumn Clematis
-- Riverbank Grapevine > Wintercreeper
-- Goldenrod > Wintercreeper, Amur Honeysuckle
+- American Black Raspberry > Fortune's Spindle, Sweet Autumn Clematis
+- Riverbank Grapevine > Fortune's Spindle
+- Goldenrod > Fortune's Spindle, Amur Honeysuckle
 
 #### Buy Natives
 
@@ -520,33 +526,33 @@ Post the "Registered Native Planting Area" sign
 
 Re-register every 3 years
 
-## Recap <!-- omit in toc -->
+## Non-Native Naughty List
 
-<div class="list--two-col text-sm">
+#### 1. Amur Honeysuckle (Lonicera maacki)
 
-- Invasives are net-negative benefit to native ecosystem
-- Skills
-  1.  Bio Material Handling
-  2.  Displacement
-  3.  Exhaustion
-  4.  Identification
-  5.  Perseverance
-  6.  Planning
-  7.  Poison
-  8.  Removal
-  9.  Legal Understanding
-  10. Wilding
+Treatment: <2' pull when ground is wet. 2-4' shovel jab and pull when ground is wet. >4' dig stump or cut down to stump and daub w/herbicide.
 
-</div>
+#### 2. Fortune's Spindle (Euonymus fortunei)
 
-## Start Today
+Treatment: only seeds on trees in Fall, so keep off! For patches, grind down to ground and smother.
 
-1. Download [Seek app](https://www.inaturalist.org/pages/seek_app) (Apple and Android)
-2. Take the [Circle City CISMA Survey](https://www.sicim.info/cismas) ([direct link](https://www.surveymonkey.com/r/KQ3TPZQ))
-3. Follow the [SICIM Weed Wrangle calendar](https://www.sicim.info/weed-wrangle-indiana)
-4. Mark your calendar for October 5, 2025 and bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/)
+#### 3. Sweet Autumn Clematis (Clematis terniflora)
 
-## Et Tu, Gato? <!-- omit in toc -->
+Treatment: seeds everywhere in Fall; roll up strand-by-strand and shovel 12" to dig up root ball.
+
+#### 4. White Mulberry (Morus alba)
+
+Treatment: doesn't fruit till mature; cut annually to exhaust or cut to stump and daub w/herbicide
+
+Note: too physically difficult to dig or pull up
+
+#### 5. Tree of Heaven (Ailanthus altissima)
+
+Treatment: doesn't fruit till mature; cut to stump and daub w/herbicide
+
+Note: too fragile to dig/pull up; can't exhaust because it root sprouts
+
+#### Et Tu, Gato? <!-- omit in toc -->
 
 Cats are an invasive species if you let them outside.
 
@@ -557,6 +563,38 @@ How to treat:
 - Reduce the amount of time outside (eg keep indoors early morning and late afternoon when birds feed)
 - Attach a bell to its collar to alert wildlife
 - Use a collar that visually alerts wildlife (eg Birdsbesafe)
+
+## Recap <!-- omit in toc -->
+
+<div class="list--two-col text-sm">
+
+- Invasives are net-negative benefit to native ecosystem
+- Skills to remove invasives:
+  1.  Bio Material Handling
+  2.  Displacement
+  3.  Exhaustion
+  4.  Identification
+  5.  Perseverance
+  6.  Planning
+  7.  Poison
+  8.  Removal
+  9.  Legal Understanding
+  10. Wilding
+- Top Irvington invaders:
+  1. Amur Honeysuckle
+  2. Fortune's Spindle
+  3. Sweet Autumn Clematis
+  4. White Mulberry
+  5. Tree of Heaven
+
+</div>
+
+## Start Today
+
+1. Download [Seek app](https://www.inaturalist.org/pages/seek_app) (Apple and Android)
+2. Take the [Circle City CISMA Survey](https://www.sicim.info/cismas) ([direct link](https://www.surveymonkey.com/r/KQ3TPZQ))
+3. Follow the [SICIM Weed Wrangle calendar](https://www.sicim.info/weed-wrangle-indiana)
+4. Mark your calendar for October 5, 2025 and bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/)
 
 ## Resources <!-- omit in toc -->
 
