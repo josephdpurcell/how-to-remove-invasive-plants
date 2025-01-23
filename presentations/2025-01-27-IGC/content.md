@@ -48,11 +48,11 @@ You can use VSCode Markdown All In One to generate TOC:
   2.  Displacement
   3.  Exhaustion
   4.  Identification
-  5.  Perseverance
-  6.  Planning
-  7.  Poison
-  8.  Removal
-  9.  Legal Understanding
+  5.  Legal Understanding
+  6.  Perseverance
+  7.  Planning
+  8.  Poison
+  9.  Removal
   10. Wilding
 - Non-Native Naughty List
   1. Amur Honeysuckle
@@ -120,7 +120,7 @@ Trumpet Vine is a non-invasive native in Indiana ([USDA](https://plants.usda.gov
 
 In practice some call it invasive because it invades managed areas (eg. gardens).
 
-Poison Ivy is native...
+Poison Ivy is a non-invasive native...
 
 ## Skills
 
@@ -262,124 +262,11 @@ The [Purdue Plant and Pest Diagnostics Lab (PPDL)](https://ag.purdue.edu/departm
 - Photo Samples (similar to iNaturalist)
 - Physical Samples (DNA test)
 
-### 5. Perseverance
-
-Continue removal efforts despite adversity or inability to envision success.
-
-Use when you put forth any substantial effort
-
-#### Tips on Persevering
-
-- Think in geological time. You may not see results in your lifetime.
-- 1 plant at a time. 1 year at a time.
-- Remember first principles: do it because it's right, not because it's easy or for results
-- Community support: you aren't alone in the struggle
-- Don't do it alone: invasive removal is a communal effort
-
-Note: someone named Liz overheard me and went on a rant about how hard it is to promote native plants
-
-### 6. Planning
-
-Optimize effort to maximize ecological benefit.
-
-Use when you have more work than time
-
-#### Divide and Conquer
-
-<p style="text-align:left">Identify what doesn't require focus:</p>
-
-- Unmanaged barren areas that don't require maintenance (eg. driveway, house, garage).
-- Unmanaged native areas that are wild. Check annually before invasives seed/flower.
-- Unmanaged invasive areas that are contained. Check annually (no seeds/flowers/vine runners).
-
-Note: example of unmanaged invasive is Fortune's Spindle with no trees, or a smothered area.
-
-#### Divide and Conquer
-
-<p style="text-align:left">And what requires focus:</p>
-
-- Managed native areas that are progressing into wild but still require weeding and invasive removal.
-- Managed invasive areas should immediately be converted into managed native or unmanaged invasive by containment.
-
-### 7. Poison
-
-Reduce a plant's energy stores, reproductive means, access to food, or energy production through chemical means.
-
-Use when drastic measures are required
-
-(cancer analogy: destructive means for greater good)
-
-#### Herbicide Calendar
-
-State of Indiana Cooperative Invasives Management (SICIM) has an herbicide calendar for most effective treatment and other resources ([link](https://www.sicim.info/control-and-management)).
-
-#### Triclopyr
-
-CAUTION! Poison is poison, handle accordingly!
-
-- Put on plastic gloves
-- Fill dauber bottle
-- Cut plant or bend to expose stem
-- Daub a few times until stem cut is saturated
-- Do NOT touch your skin!
-- Apply when it is not going to rain for 24 hrs
-
-Note: Used by Dept. of Land Stewardship. Alt method is squirt bottle.
-
-#### White Vinegar and Salt
-
-I've experimented with 50% White Vinegar (the regular 3% stuff) and 50% rock salt. Seems to kill growth of that stem, but not entire plant.
-
-### 8. Removal
-
-Remove a plant from an area through mechanical means.
-
-Use when you have strength, soil is wet, and have Bio Material Handling
-
-Note: don't hurt yourself!
-
-#### Plants <2'
-
-<p style="text-align:left">Tend to do fine pulling by hand:</p>
-
-- Key is to get all of the root! Yank at the base, if it snaps dig up the root
-- Delicate plants like Creeping Thistle and Japanese Knotweed can sometimes be pulled by hand when the soil is very wet without much fuss.
-- Sometimes I first loosen with a quick trowel jab.
-- For strong roots like Amur Honeysuckle saplings you can yank away.
-
-#### Plants 2-4'
-
-<p style="text-align:left">Requires strategy:</p>
-
-- Usually trunk is less than 1" and the root system can be cut with vigorous shoveling
-- Jab shovel every few inches about 4" away from center
-- Pry with shovel while pulling vigorously
-- Easier when soil is wet.
-
-#### Plants >4'
-
-<p style="text-align:left">Requires more strategy:</p>
-
-- First, cut the canopy down to the ground. Loppers are preferred tool.
-- Dig surrounding the stump about 1' away from center. If shovel can't cut the root dig until roots are exposed and use loppers.
-- Pry up with bar.
-
-Tips:
-
-- Be careful! Know when its too big.
-- Regular stretching and exercise can boost your skill.
-- Easier when soil is wet.
-
-#### Vines
-
-- Sweet Autumn Clematis you can role each strand into a ball, find root ball, and dig about 12" down to get root ball
-- English Ivy and Fortune's Spindle are impossible, there isn't a root ball; use another method like Exhaustion
-
-### 9. Legal Understanding
+### 5. Legal Understanding
 
 Understand the legal constraints of invasive plant removal.
 
-Use when you are Bio Materia Handling or Wilding
+Use when you are Bio Materia Handling, Poison, or Wilding
 
 #### Vegetation Height: BNS
 
@@ -474,6 +361,119 @@ Dammann's for example:
 Note: how many of these will end up on the invasive list?
 
 </div>
+
+### 6. Perseverance
+
+Continue removal efforts despite adversity or inability to envision success.
+
+Use when you put forth any substantial effort
+
+#### Tips on Persevering
+
+- Think in geological time. You may not see results in your lifetime.
+- 1 plant at a time. 1 year at a time.
+- Remember first principles: do it because it's right, not because it's easy or for results
+- Community support: you aren't alone in the struggle
+- Don't do it alone: invasive removal is a communal effort
+
+Note: someone named Liz overheard me and went on a rant about how hard it is to promote native plants
+
+### 7. Planning
+
+Optimize effort to maximize ecological benefit.
+
+Use when you have more work than time
+
+#### Divide and Conquer
+
+<p style="text-align:left">Identify what doesn't require focus:</p>
+
+- Unmanaged barren areas that don't require maintenance (eg. driveway, house, garage).
+- Unmanaged native areas that are wild. Check annually before invasives seed/flower.
+- Unmanaged invasive areas that are contained. Check annually (no seeds/flowers/vine runners).
+
+Note: example of unmanaged invasive is Fortune's Spindle with no trees, or a smothered area.
+
+#### Divide and Conquer
+
+<p style="text-align:left">And what requires focus:</p>
+
+- Managed native areas that are progressing into wild but still require weeding and invasive removal.
+- Managed invasive areas should immediately be converted into managed native or unmanaged invasive by containment.
+
+### 8. Poison
+
+Reduce a plant's energy stores, reproductive means, access to food, or energy production through chemical means.
+
+Use when drastic measures are required
+
+(cancer analogy: destructive means for greater good)
+
+#### Herbicide Calendar
+
+State of Indiana Cooperative Invasives Management (SICIM) has an herbicide calendar for most effective treatment and other resources ([link](https://www.sicim.info/control-and-management)).
+
+#### Triclopyr
+
+CAUTION! Poison is poison, handle accordingly!
+
+- Put on plastic gloves
+- Fill dauber bottle
+- Cut plant or bend to expose stem
+- Daub a few times until stem cut is saturated
+- Do NOT touch your skin!
+- Apply when it is not going to rain for 24 hrs
+
+Note: Used by Dept. of Land Stewardship. Alt method is squirt bottle.
+
+#### White Vinegar and Salt
+
+I've experimented with 50% White Vinegar (the regular 3% stuff) and 50% rock salt. Seems to kill growth of that stem, but not entire plant.
+
+### 9. Removal
+
+Remove a plant from an area through mechanical means.
+
+Use when you have strength, soil is wet, and have Bio Material Handling
+
+Note: don't hurt yourself!
+
+#### Plants <2'
+
+<p style="text-align:left">Tend to do fine pulling by hand:</p>
+
+- Key is to get all of the root! Yank at the base, if it snaps dig up the root
+- Delicate plants like Creeping Thistle and Japanese Knotweed can sometimes be pulled by hand when the soil is very wet without much fuss.
+- Sometimes I first loosen with a quick trowel jab.
+- For strong roots like Amur Honeysuckle saplings you can yank away.
+
+#### Plants 2-4'
+
+<p style="text-align:left">Requires strategy:</p>
+
+- Usually trunk is less than 1" and the root system can be cut with vigorous shoveling
+- Jab shovel every few inches about 4" away from center
+- Pry with shovel while pulling vigorously
+- Easier when soil is wet.
+
+#### Plants >4'
+
+<p style="text-align:left">Requires more strategy:</p>
+
+- First, cut the canopy down to the ground. Loppers are preferred tool.
+- Dig surrounding the stump about 1' away from center. If shovel can't cut the root dig until roots are exposed and use loppers.
+- Pry up with bar.
+
+Tips:
+
+- Be careful! Know when its too big.
+- Regular stretching and exercise can boost your skill.
+- Easier when soil is wet.
+
+#### Vines
+
+- Sweet Autumn Clematis you can role each strand into a ball, find root ball, and dig about 12" down to get root ball
+- English Ivy and Fortune's Spindle are impossible, there isn't a root ball; use another method like Exhaustion
 
 ### 10. Wilding
 
@@ -700,11 +700,11 @@ How to treat:
   2.  Displacement
   3.  Exhaustion
   4.  Identification
-  5.  Perseverance
-  6.  Planning
-  7.  Poison
-  8.  Removal
-  9.  Legal Understanding
+  5.  Legal Understanding
+  6.  Perseverance
+  7.  Planning
+  8.  Poison
+  9.  Removal
   10. Wilding
 - Top Irvington invaders:
   1. Amur Honeysuckle
