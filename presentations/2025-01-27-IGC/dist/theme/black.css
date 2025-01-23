@@ -364,75 +364,90 @@ section.has-light-background, section.has-light-background h1, section.has-light
     background-color: var(--r-background-color);
   }
 }
-.list--two-col > ol li > ol,
-.list--two-col > ol li > ul,
-.list--two-col > ul li > ol,
-.list--two-col > ul li > ul {
+.reveal .list--two-col > ol li > ol,
+.reveal .list--two-col > ol li > ul,
+.reveal .list--two-col > ul li > ol,
+.reveal .list--two-col > ul li > ul {
   column-count: 2;
   column-gap: 1em;
 }
-.list--two-col > ol li > ol li,
-.list--two-col > ol li > ul li,
-.list--two-col > ul li > ol li,
-.list--two-col > ul li > ul li {
+.reveal .list--two-col > ol li > ol li,
+.reveal .list--two-col > ol li > ul li,
+.reveal .list--two-col > ul li > ol li,
+.reveal .list--two-col > ul li > ul li {
   margin-left: 1em;
 }
-
-.text-sm {
+.reveal .text-sm {
   font-size: 80%;
 }
-
-section > section {
+.reveal section > section {
   padding-top: 1em;
 }
-section > section h3,
-section > section h4 {
+.reveal section > section h3,
+.reveal section > section h4 {
   text-align: left;
 }
-
-section {
+.reveal section {
   text-align: left;
 }
-
-.subsection-breadcrumb {
+.reveal .subsection-breadcrumb {
   position: absolute;
   top: 0;
   left: 0;
   font-size: 0.5em;
-  opacity: 80%;
+  opacity: 90%;
 }
-
-.slide-image {
+.reveal .slide-image {
   text-align: center;
   margin: 0;
 }
-.slide-image p {
+.reveal .slide-image p {
   margin: 0;
 }
-.slide-image img {
+.reveal .slide-image img {
   margin: 0;
 }
-
-h1[id=""],
-h2[id=""],
-h3[id=""],
-h4[id=""] {
+.reveal h1[id=""],
+.reveal h2[id=""],
+.reveal h3[id=""],
+.reveal h4[id=""] {
   display: none;
 }
-
-.qrcode {
+.reveal .qrcode {
   position: absolute;
   right: 0;
   top: 100%;
   margin-top: -196px;
 }
-.qrcode img {
+.reveal .qrcode img {
   margin: 0;
   padding: 0;
 }
-.qrcode p {
+.reveal .qrcode p {
   font-size: 16px;
   font-style: italic;
+  margin: 0;
+  padding: 0;
+}
+.reveal .img--two-col .img--col {
+  width: 50%;
+  float: left;
+}
+.reveal blockquote {
+  text-align: center;
+}
+.reveal .caption {
+  font-size: 80%;
+}
+.reveal .caption p {
+  margin: 0;
+  padding: 0;
+}
+.reveal img {
+  max-height: 50vh;
+  margin: 0;
+}
+.reveal p:has(img) {
   margin: 0;
   padding: 0;
 }

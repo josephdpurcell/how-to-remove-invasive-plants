@@ -10,7 +10,7 @@ By Joseph D. Purcell
 
 <div class="qrcode">
 
-![qrcode](how-to-remove-invasive-plants-qrcode.png)
+![qrcode](media/how-to-remove-invasive-plants-qrcode.png)
 
 [Link to slides](https://josephdpurcell.github.io/how-to-remove-invasive-plants/presentations/2025-01-27-IGC/index.html)
 
@@ -528,31 +528,157 @@ Re-register every 3 years
 
 ## Non-Native Naughty List
 
-#### 1. Amur Honeysuckle (Lonicera maacki)
+### 1. Amur Honeysuckle (Lonicera maacki)
 
-Treatment: <2' pull when ground is wet. 2-4' shovel jab and pull when ground is wet. >4' dig stump or cut down to stump and daub w/herbicide.
+####
 
-#### 2. Fortune's Spindle (Euonymus fortunei)
+<div class="img--two-col">
+
+<div class="img--col">
+
+![amur-flowers.jpg](media/amur-flowers.jpg)
+
+<div class="caption">
+
+White flowers summer ([Photo CC ©Andrew Conboy](https://www.inaturalist.org/photos/277949422))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![amur-berries.jpg](media/amur-berries.jpg)
+
+<div class="caption">
+
+Red berries fall ([Photo CC ©theo_witsell](https://www.inaturalist.org/photos/24862276))
+
+</div>
+
+</div>
+
+</div>
+
+####
+
+<div class="img--two-col">
+
+<div class="img--col">
+
+![amur-bark.jpg](media/amur-bark.jpg)
+
+<div class="caption">
+
+Flakey bark ([Photo CC ©heathjohnson15](https://www.inaturalist.org/photos/105065254))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![amur-hallow.jpeg](media/amur-hallow.jpeg)
+
+<div class="caption">
+
+Hallow stems ([Photo CC iNaturalist](https://www.inaturalist.org/observations/119106952))
+
+</div>
+
+</div>
+
+</div>
+
+####
+
+<div class="img--two-col">
+
+<div class="img--col">
+
+![amur-sapling-1.jpg](media/amur-sapling-1.jpg)
+
+<div class="caption">
+
+Sapling single stem opposite leaves ([Photo CC iNaturalist](https://www.inaturalist.org/observations/189491399))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![amur-sapling-2.jpg](media/amur-sapling-2.jpg)
+
+<div class="caption">
+
+Sapling bunch of leaves ([Photo CC iNaturalist](https://www.inaturalist.org/observations/151764521))
+
+</div>
+
+</div>
+
+</div>
+
+####
+
+<h5>Which is Amur Honeysuckle and which is Roughleaf Dogwood?</h5>
+
+<div class="img--two-col">
+
+<div class="img--col">
+
+![amur-leaves.jpg](media/amur-leaves.jpg)
+
+<div class="caption fragment fade-in" data-fragment-index="1">
+
+Amur Honeysuckle sapling ([Photo CC iNaturalist](https://www.inaturalist.org/observations/155920293))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![roughleaf-dogwood-leaves.jpg](media/roughleaf-dogwood-leaves.jpg)
+
+<div class="caption fragment fade-in" data-fragment-index="1">
+
+Roughleaf Dogwood sapling ([Photo CC iNaturalist](https://www.inaturalist.org/observations/212049195))
+
+</div>
+
+</div>
+
+</div>
+
+#### Treatment
+
+- `<2'` pull with trowel jab or when ground is wet
+- `2-4'` shovel jab and pull when ground is wet
+- `>4'` dig stump or cut down to stump and daub w/herbicide
+
+### 2. Fortune's Spindle (Euonymus fortunei)
 
 Treatment: only seeds on trees in Fall, so keep off! For patches, grind down to ground and smother.
 
-#### 3. Sweet Autumn Clematis (Clematis terniflora)
+### 3. Sweet Autumn Clematis (Clematis terniflora)
 
 Treatment: seeds everywhere in Fall; roll up strand-by-strand and shovel 12" to dig up root ball.
 
-#### 4. White Mulberry (Morus alba)
+### 4. White Mulberry (Morus alba)
 
 Treatment: doesn't fruit till mature; cut annually to exhaust or cut to stump and daub w/herbicide
 
 Note: too physically difficult to dig or pull up
 
-#### 5. Tree of Heaven (Ailanthus altissima)
+### 5. Tree of Heaven (Ailanthus altissima)
 
 Treatment: doesn't fruit till mature; cut to stump and daub w/herbicide
 
 Note: too fragile to dig/pull up; can't exhaust because it root sprouts
 
-#### Et Tu, Gato? <!-- omit in toc -->
+### Et Tu, Gato? <!-- omit in toc -->
 
 Cats are an invasive species if you let them outside.
 
@@ -617,7 +743,7 @@ How to treat:
 
 <div class="qrcode">
 
-![qrcode](how-to-remove-invasive-plants-qrcode.png)
+![qrcode](media/how-to-remove-invasive-plants-qrcode.png)
 
 [Link to slides](https://josephdpurcell.github.io/how-to-remove-invasive-plants/presentations/2025-01-27-IGC/index.html)
 

@@ -1,76 +1,108 @@
-.list--two-col > ol,
-.list--two-col > ul {
-  li > ol,
-  li > ul {
-    column-count: 2;
-    column-gap: 1em;
+.reveal {
+  .list--two-col > ol,
+  .list--two-col > ul {
+    li > ol,
+    li > ul {
+      column-count: 2;
+      column-gap: 1em;
 
-    li {
-      margin-left: 1em;
+      li {
+        margin-left: 1em;
+      }
     }
   }
-}
 
-.text-sm {
-  font-size: 80%;
-}
+  .text-sm {
+    font-size: 80%;
+  }
 
-section > section {
-  padding-top: 1em;
+  section > section {
+    padding-top: 1em;
 
-  h3,
-  h4 {
+    h3,
+    h4 {
+      text-align: left;
+    }
+  }
+
+  section {
     text-align: left;
   }
-}
 
-section {
-  text-align: left;
-}
-
-.subsection-breadcrumb {
-  position: absolute;
-  top: 0;
-  left: 0;
-  font-size: 0.5em;
-  opacity: 80%;
-}
-
-// I just want the image to look good
-.slide-image {
-  // Center the image because its all left aligned
-  text-align: center;
-
-  // So much margin
-  margin: 0;
-  p {
-    margin: 0;
+  .subsection-breadcrumb {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 0.5em;
+    opacity: 90%;
   }
+
+  // I just want the image to look good
+  .slide-image {
+    // Center the image because its all left aligned
+    text-align: center;
+
+    // So much margin
+    margin: 0;
+    p {
+      margin: 0;
+    }
+    img {
+      margin: 0;
+    }
+  }
+
+  // Remove empty headings
+  h1[id=""],
+  h2[id=""],
+  h3[id=""],
+  h4[id=""] {
+    display: none;
+  }
+
+  .qrcode {
+    position: absolute;
+    right: 0;
+    top: 100%;
+    margin-top: -196px;
+    img {
+      margin: 0;
+      padding: 0;
+    }
+    p {
+      font-size: 16px;
+      font-style: italic;
+      margin: 0;
+      padding: 0;
+    }
+  }
+
+  .img--two-col {
+    .img--col {
+      width: 50%;
+      float: left;
+    }
+  }
+
+  blockquote {
+    text-align: center;
+  }
+
+  .caption {
+    font-size: 80%;
+
+    p {
+      margin: 0;
+      padding: 0;
+    }
+  }
+
   img {
+    max-height: 50vh;
     margin: 0;
   }
-}
 
-// Remove empty headings
-h1[id=""],
-h2[id=""],
-h3[id=""],
-h4[id=""] {
-  display: none;
-}
-
-.qrcode {
-  position: absolute;
-  right: 0;
-  top: 100%;
-  margin-top: -196px;
-  img {
-    margin: 0;
-    padding: 0;
-  }
-  p {
-    font-size: 16px;
-    font-style: italic;
+  p:has(img) {
     margin: 0;
     padding: 0;
   }
