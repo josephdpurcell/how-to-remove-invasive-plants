@@ -333,7 +333,7 @@ Potential liability or fines if fire causes damages or is unsafe.
 
 Since 2020 the [Indiana Terrestrial Plant Rule 312 IAC 18-3-25](https://iar.iga.in.gov/code/2026/312/18#312-18-3-25) makes it illegal to "sell, offer or grow for sale, gift, barter, exchange, or distribute a species" that's on the list of 44 plants. The only thing you can do if someone owns them is report them to the DNR.
 
-The one exception is Tree of Heaven. [Indianapolis Code of Ordinances Section 391-112](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances/358893?nodeId=TITIIPUORSA_CH391NU_ARTIINGE_S391-112AITRTRHEDENU) saysit is public nuisance and you must "remove it upon notice by the city to do so", which can be enforced with fines. City is expected to remove them.
+The one exception is Tree of Heaven. [Indianapolis Code of Ordinances Section 391-112](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances/358893?nodeId=TITIIPUORSA_CH391NU_ARTIINGE_S391-112AITRTRHEDENU) says it is public nuisance and you must "remove it upon notice by the city to do so", which can be enforced with fines. City is expected to remove them on their property. Call [Mayor's Action Center](https://www.indy.gov/agency/mayors-action-center) 317-327-4622.
 
 Note: Can you report Tree of Heaven to the city? What about all those by Butler and E Market?
 
@@ -638,7 +638,7 @@ Hallow stems
 
 <div class="caption">
 
-Sapling single stem opposite leaves
+Sapling single stem opposite leaves (Etiolation?)
 
 ([Photo CC © andreah99](https://www.inaturalist.org/photos/331967002))
 
@@ -655,6 +655,36 @@ Sapling single stem opposite leaves
 Sapling bundle of stems
 
 ([Photo CC © Gaudaceous Cress](https://www.inaturalist.org/photos/354013738))
+
+</div>
+
+</div>
+
+</div>
+
+#### Groundcover Wasteland
+
+<div class="img--two-col">
+
+<div class="img--col">
+
+![amur-under.jpg](media/amur-under.jpg)
+
+<div class="caption">
+
+Light competition prevents<br />germination (near 100%?)
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![amur-over.jpg](media/amur-over.jpg)
+
+<div class="caption">
+
+Allelopathy through leaves (phenolic compounds prevent germination) ([link](https://www.knps.org/ecological-effects-of-amur-honeysuckle-infestations/))
 
 </div>
 
