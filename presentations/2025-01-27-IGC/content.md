@@ -833,7 +833,7 @@ American Bittersweet
 
 <div class="caption">
 
-Seedling
+Seedling has several vines, one root ball
 
 ([Photo CC ©Tom Arata](https://www.inaturalist.org/photos/67180528))
 
@@ -847,7 +847,7 @@ Seedling
 
 <div class="caption">
 
-Common on fences
+Grows everywhere
 
 ([Photo CC ©binda66](https://www.inaturalist.org/photos/154444020))
 
@@ -867,7 +867,7 @@ Common on fences
 
 <div class="caption">
 
-Covers almost everything
+Flowers in summer, covers almost everything
 
 ([Photo CC ©Jason](https://www.inaturalist.org/photos/153730851))
 
@@ -881,7 +881,7 @@ Covers almost everything
 
 <div class="caption">
 
-Fluffy seeds get airborn
+Seeds late summer, tons of fluffy seeds get airborn
 
 ([Photo CC ©lmbenoit](https://www.inaturalist.org/photos/331282507))
 
@@ -891,7 +891,7 @@ Fluffy seeds get airborn
 
 </div>
 
-Note: doesn't cover American Blackraspberry
+Note: doesn't cover American Blackraspberry; birds eat seeds
 
 #### Treatment
 
@@ -947,7 +947,7 @@ Pointy leaves
 
 Often single stem
 
-([Photo CC © botany08](https://www.inaturalist.org/photos/403908493))
+([Photo CC © Owen Strickland](https://www.inaturalist.org/photos/27278768))
 
 </div>
 
@@ -961,7 +961,7 @@ Often single stem
 
 Grows anywhere
 
-([Photo CC © botany08](https://www.inaturalist.org/photos/403908493))
+([Photo CC © Dave Richardson](https://www.inaturalist.org/photos/458248358))
 
 </div>
 
@@ -975,7 +975,7 @@ Grows anywhere
 
 Sapling bark is polka
 
-([Photo CC © Alan Prather](https://www.inaturalist.org/photos/402690141))
+([Photo CC © Jeff Clark](https://www.inaturalist.org/photos/152326932))
 
 </div>
 
@@ -995,7 +995,7 @@ Sapling bark is polka
 
 Mature trees fruit (>5 yrs)
 
-([Photo CC © botany08](https://www.inaturalist.org/photos/403908493))
+([Photo CC © Dmitriy Bochkov](https://www.inaturalist.org/photos/212736216))
 
 </div>
 
@@ -1009,13 +1009,53 @@ Mature trees fruit (>5 yrs)
 
 Grows tall (>50')
 
-([Photo CC © Alan Prather](https://www.inaturalist.org/photos/402690141))
+([Photo CC © Skyler Principe](https://www.inaturalist.org/photos/207573627))
 
 </div>
 
 </div>
 
 </div>
+
+####
+
+<h5>Which sapling is native Eastern Cottonwood?</h5>
+
+<div class="img--two-col img--with-hint">
+
+<div class="img--col">
+
+![eastern-cottonwood-sapling.jpg](media/eastern-cottonwood-sapling.jpg)
+
+<div class="caption fragment fade-in" data-fragment-index="1">
+
+Eastern Cottonwood
+
+([Photo CC © Sandy Wolkenberg](https://www.inaturalist.org/photos/41487460))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![white-mulberry-sapling-3.jpg](media/white-mulberry-sapling-3.jpg)
+
+<div class="caption fragment fade-in" data-fragment-index="1">
+
+White Mulberry
+
+([Photo CC © Elliot Greiner](https://www.inaturalist.org/photos/147626245))
+
+</div>
+
+</div>
+
+<h5 class="fragment hint" data-fragment-index="1">Hint: Cottonwood has no lobes</h5>
+
+</div>
+
+Note: sometimes cottonwood has pinkish veins/stems
 
 #### Red vs White
 
@@ -1112,7 +1152,7 @@ Grows tall (>80')
 
 Polka bark, tassel growth at top, stumpy ends in winter
 
-([Photo CC © Гущина Ангелина Викторовна](https://www.inaturalist.org/photos/23958990))
+([Photo CC © Гущина Ангелина Викторовна](https://www.inaturalist.org/photos/272623252))
 
 </div>
 
@@ -1138,7 +1178,7 @@ New bark can be green or brown w/o polka
 
 <h5>Which is native Smooth Sumac?</h5>
 
-<div class="img--two-col">
+<div class="img--two-col img--with-hint">
 
 <div class="img--col">
 
@@ -1167,6 +1207,8 @@ Tree of Heaven
 </div>
 
 </div>
+
+<h5 class="fragment hint" data-fragment-index="1">Hint: Tree of Heaven stinks! (break stem/rub leaf)</h5>
 
 </div>
 
