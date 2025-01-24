@@ -1215,9 +1215,9 @@ How to treat:
 ## Start Today
 
 1. Download [Seek app](https://www.inaturalist.org/pages/seek_app) (Apple and Android)
-2. Take the [Circle City CISMA Survey](https://www.sicim.info/cismas)
-
-([direct link](https://www.surveymonkey.com/r/KQ3TPZQ)) 3. Follow the [SICIM Weed Wrangle calendar](https://www.sicim.info/weed-wrangle-indiana) 4. Mark your calendar for October 5, 2025 and bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/)
+2. Take the [Circle City CISMA Survey](https://www.sicim.info/cismas) ([direct link](https://www.surveymonkey.com/r/KQ3TPZQ))
+3. Follow the [SICIM Weed Wrangle calendar](https://www.sicim.info/weed-wrangle-indiana)
+4. Mark your calendar for October 5, 2025 and bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/)
 
 ## Resources <!-- omit in toc -->
 
