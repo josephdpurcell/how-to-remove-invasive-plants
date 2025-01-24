@@ -433,6 +433,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
   width: 50%;
   float: left;
 }
+.reveal .img--two-col .hint {
+  float: left;
+}
 .reveal .img--three-col .img--col {
   width: 33%;
   float: left;
@@ -450,6 +453,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal img {
   max-height: 50vh;
   margin: 0;
+}
+.reveal .img--with-hint img {
+  max-height: 45vh;
 }
 .reveal p:has(img) {
   margin: 0;

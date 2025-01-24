@@ -662,17 +662,17 @@ Sapling bundle of stems
 
 ####
 
-<h5>Which is native Roughleaf Dogwood?</h5>
+<h5>Which sapling is native Roughleaf Dogwood?</h5>
 
-<div class="img--two-col">
+<div class="img--two-col img--with-hint">
 
 <div class="img--col">
 
 ![amur-leaves.jpg](media/amur-leaves.jpg)
 
-<div class="caption fragment fade-in" data-fragment-index="1">
+<div class="caption fragment" data-fragment-index="1">
 
-Amur Honeysuckle sapling
+Amur Honeysuckle
 
 ([Photo CC © mpagett](https://www.inaturalist.org/photos/269565359))
 
@@ -684,15 +684,17 @@ Amur Honeysuckle sapling
 
 ![roughleaf-dogwood-leaves.jpg](media/roughleaf-dogwood-leaves.jpg)
 
-<div class="caption fragment fade-in" data-fragment-index="1">
+<div class="caption fragment" data-fragment-index="1">
 
-Roughleaf Dogwood sapling
+Roughleaf Dogwood
 
 ([Photo CC © wjleo](https://www.inaturalist.org/photos/374761889))
 
 </div>
 
 </div>
+
+<h5 class="fragment hint" data-fragment-index="1">Hint: Remove both or break 0.5" stem to see if hallow</h5>
 
 </div>
 
@@ -778,9 +780,9 @@ Note: can be standalone bush
 
 ####
 
-<h5>Which is native American Bittersweet?</h5>
+<h5>Which berries are native American Bittersweet?</h5>
 
-<div class="img--two-col">
+<div class="img--two-col img--with-hint">
 
 <div class="img--col">
 
@@ -788,7 +790,7 @@ Note: can be standalone bush
 
 <div class="caption fragment fade-in" data-fragment-index="1">
 
-Fortune's Spindle berries
+Fortune's Spindle
 
 ([Photo CC © Scott Deerwester](https://www.inaturalist.org/photos/245200717))
 
@@ -802,7 +804,7 @@ Fortune's Spindle berries
 
 <div class="caption fragment fade-in" data-fragment-index="1">
 
-American Bittersweet berries
+American Bittersweet
 
 ([Photo CC © Thomas Koffel](https://www.inaturalist.org/photos/61566480))
 
@@ -810,9 +812,9 @@ American Bittersweet berries
 
 </div>
 
-</div>
+<h5 class="fragment hint" data-fragment-index="1">Hint: Native has no leaves</h5>
 
-Note: native has no leaves
+</div>
 
 #### Treatment
 
@@ -879,7 +881,7 @@ Covers almost everything
 
 <div class="caption">
 
-Fluffy seeds can get airborn
+Fluffy seeds get airborn
 
 ([Photo CC ©lmbenoit](https://www.inaturalist.org/photos/331282507))
 
@@ -1015,6 +1017,14 @@ Grows tall (>50')
 
 </div>
 
+#### Red vs White
+
+Is it possible to differentiate from native Red Mulberry due to hybridization?
+
+[Purdue University has a 6-page guide](https://www.extension.purdue.edu/extmedia/fnr/fnr_237.pdf), but I still had to resort to genetic testing.
+
+Note: hybridization makes it impossible
+
 #### Treatment
 
 - `<4'` shovel and fully dig when ground is wet (too strong to hand pull)
@@ -1022,9 +1032,148 @@ Grows tall (>50')
 
 ### 5. Tree of Heaven (Ailanthus altissima)
 
-Treatment: doesn't fruit till mature; cut to stump and daub w/herbicide
+####
 
-Note: too fragile to dig/pull up; can't exhaust because it root sprouts
+<div class="img--two-col">
+
+<div class="img--col">
+
+![tree-of-heaven-anywhere.jpeg](media/tree-of-heaven-anywhere.jpeg)
+
+<div class="caption">
+
+Grows anywhere, sapling usually single stem
+
+([Photo CC © Tristan Haab](https://www.inaturalist.org/photos/137900484))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![tree-of-heaven-leaves.jpeg](media/tree-of-heaven-leaves.jpeg)
+
+<div class="caption">
+
+Long leaves, tropical vibe, new leaves have brownish
+
+([Photo CC © Skyler Principe](https://www.inaturalist.org/photos/218081043))
+
+</div>
+
+</div>
+
+</div>
+
+####
+
+<div class="img--two-col">
+
+<div class="img--col">
+
+![tree-of-heaven-seeds.jpeg](media/tree-of-heaven-seeds.jpeg)
+
+<div class="caption">
+
+Mature trees seed (>5 yrs)
+
+([Photo CC © Jonathan Layman](https://www.inaturalist.org/photos/23958990))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![tree-of-heaven-line.jpg](media/tree-of-heaven-line.jpg)
+
+<div class="caption">
+
+Grows tall (>80')
+
+([Photo CC © CK Kelly](https://www.inaturalist.org/photos/9044107))
+
+</div>
+
+</div>
+
+</div>
+
+####
+
+<div class="img--two-col">
+
+<div class="img--col">
+
+![tree-of-heaven-stumpy-top.jpeg](media/tree-of-heaven-stumpy-top.jpeg)
+
+<div class="caption">
+
+Polka bark, tassel growth at top, stumpy ends in winter
+
+([Photo CC © Гущина Ангелина Викторовна](https://www.inaturalist.org/photos/23958990))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![tree-of-heaven-new-bark.jpeg](media/tree-of-heaven-new-bark.jpeg)
+
+<div class="caption">
+
+New bark can be green or brown w/o polka
+
+([Photo CC © Ulises Emmanuel Martínez Burgos](https://www.inaturalist.org/photos/96330429))
+
+</div>
+
+</div>
+
+</div>
+
+####
+
+<h5>Which is native Smooth Sumac?</h5>
+
+<div class="img--two-col">
+
+<div class="img--col">
+
+![smooth-sumac-single.jpg](media/smooth-sumac-single.jpg)
+
+<div class="caption fragment fade-in" data-fragment-index="1">
+
+Smooth Sumac
+
+([Photo CC © Hill Craddock](https://www.inaturalist.org/photos/128269508))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![tree-of-heaven-single.jpeg](media/tree-of-heaven-single.jpeg)
+
+<div class="caption fragment fade-in" data-fragment-index="1">
+
+Tree of Heaven
+
+([Photo CC © Daniel Cahen](https://www.inaturalist.org/photos/145937284))
+
+</div>
+
+</div>
+
+</div>
+
+#### Treatment
+
+- `<4'` shovel and fully dig when ground is wet (too fragile to hand pull)
+- `>4'` cut down to stump and daub w/herbicide (doesn't seed till mature ~10 yr but can't exhaust because root sprout)
 
 ### Et Tu, Gato? <!-- omit in toc -->
 
