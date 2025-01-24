@@ -161,11 +161,7 @@ You will encounter toxins, thorns, and burrs.
 
 You cannot leave plants to decompose without propagation risk.
 
-Burning them into biochar terminates them, is carbon neutral
-
-([link](https://sustainability.stackexchange.com/questions/7009/is-burning-wood-the-same-as-letting-it-biodegrade-from-a-co2-emissions-perspecti)), and is a soil encrichment
-
-([link](https://www.climatehubs.usda.gov/hubs/northwest/topic/biochar)).
+Burning them into biochar terminates them, is carbon neutral ([link](https://sustainability.stackexchange.com/questions/7009/is-burning-wood-the-same-as-letting-it-biodegrade-from-a-co2-emissions-perspecti)), and is a soil encrichment ([link](https://www.climatehubs.usda.gov/hubs/northwest/topic/biochar)).
 
 - Option 1: Burn barrel with dolly so you can burn on site. See online videos for strategy and safety considerations.
 - Option 2: Trench burn is good at handling large quantities. Requires higher degree of safety working with fire.
@@ -325,9 +321,7 @@ Can also dropoff at a [composting facility listed by IDEM](https://www.in.gov/id
 
 #### Disposal via Burning
 
-While allowed by IDEM it advises against open burning citing harm to human health and environment
-
-([link](https://www.in.gov/idem/waste/waste-industries/yard-waste-and-composting-facilities/), [link](https://www.in.gov/idem/openburning/health-risks-and-environmental-impacts/)).
+While allowed by IDEM it advises against open burning citing harm to human health and environment ([link](https://www.in.gov/idem/waste/waste-industries/yard-waste-and-composting-facilities/), [link](https://www.in.gov/idem/openburning/health-risks-and-environmental-impacts/)).
 
 [Indianapolis Code of Ordinances Section 511-703](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances?nodeId=TITIIIPUHEWE_CH511AIPOCO_ARTVIIGEPR_S511-703LIBUSPPU) allows burning dried limbs, twigs, and branches (but not leaves): originating from the property, between 10 am and 3 pm, 15 ft. distance, sufficiently vented with mesh covering max 0.25", and always attended with means to extinguish.
 
@@ -431,9 +425,7 @@ Use when drastic measures are required
 
 #### Herbicide Calendar
 
-State of Indiana Cooperative Invasives Management (SICIM) has an herbicide calendar for most effective treatment and other resources
-
-([link](https://www.sicim.info/control-and-management)).
+State of Indiana Cooperative Invasives Management (SICIM) has an herbicide calendar for most effective treatment and other resources ([link](https://www.sicim.info/control-and-management)).
 
 #### Triclopyr
 
