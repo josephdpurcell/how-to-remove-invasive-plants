@@ -406,6 +406,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 }
 .reveal .slide-image img {
   margin: 0;
+  max-height: 55vh;
 }
 .reveal h1[id=""],
 .reveal h2[id=""],
@@ -443,8 +444,12 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal blockquote {
   text-align: center;
 }
+.reveal section > section:first-child .disclaimer {
+  display: block;
+}
 .reveal .caption {
   font-size: 80%;
+  max-width: 95%;
 }
 .reveal .caption p {
   margin: 0;

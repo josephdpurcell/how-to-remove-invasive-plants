@@ -1,6 +1,6 @@
 # Invasive Plant Removal
 
-<h1>On Residential Property</h1>
+<h2>On Indianapolis Residential Property</h2>
 
 Irvington Garden Club
 
@@ -94,9 +94,7 @@ Note: has legal definitions but doesn't seem to relate to anything enforceable?
 - Crowds out native plants (which do offer food)
 - Changes structure and content of soil (causes erosion, suppression of native growth)
 
-<p class="fragment">
-Example: my childhood forrest is now Vinca. Its beauty doesn't outweigh the cost of having no more berries or mushrooms.
-</p>
+Note: Example, my childhood forrest is now Vinca. Its beauty doesn't outweigh the cost of having no more berries or mushrooms.
 
 ### Managed vs Unmanaged
 
@@ -104,29 +102,24 @@ A managed area requires human upkeep.
 
 An unmanaged area requires little or no human involvement (eg. a day a year to audit).
 
-<p class="fragment">
-Example: my childhood forrest is unmanaged, but the home and farm nearby where the Vinca came from is managed.
-</p>
+Note: my childhood forrest is unmanaged, but the home and farm nearby where the Vinca came from is managed.
 
 ### Invasive vs Non-Invasive
 
-Invasive species result in net-negative benefit for an ecosystem.
+Invasive species result in net-negative benefit for an ecosystem.<br />(eg. Fortune's Spindle)
 
-(eg. Fortune's Spindle)
-
-Non-invasive species are neutral or positive.
-
-(eg. Tomatoes)
+Non-invasive species are neutral or positive.<br />(eg. Tomatoes)
 
 Resources: [IISC](https://ag.purdue.edu/department/entm/iisc/), [GISD](https://www.iucngisd.org/gisd/), [NISIC](https://www.invasivespeciesinfo.gov/terrestrial/plants), [NatureServe](https://explorer.natureserve.org/)
 
 ### Perspective Matters <!-- omit in toc -->
 
-Trumpet Vine is legally a non-invasive native in Indiana ([USDA](https://plants.usda.gov/plant-profile/CARA2), [Natureserve](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.148989/Campsis_radicans)).
+Trumpet Vine is legally a non-invasive native in Indiana ([USDA](https://plants.usda.gov/plant-profile/CARA2), [Natureserve](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.148989/Campsis_radicans))...
 
-In practice some call it invasive because it invades managed areas (eg. gardens).
+- In practice some call it invasive because it invades managed areas (eg. [gardens](https://www.purdue.edu/hla/sites/yardandgarden/trumpet-creeper-is-no-shrinking-violet/))
+- But, it's ecological benefits are well known: hummingbirds, pollinators, ants, etc ([link](https://illinoiswildflowers.info/trees/plants/trumpet_creeper.htm))
 
-Poison Ivy is a non-invasive native...
+Poison Ivy is legally a non-invasive native...
 
 Differences between legal and common understandings requires deep dive into [Federal and State](https://www.invasivespeciesinfo.gov/subject/lists) regulations.
 
@@ -153,26 +146,28 @@ You will encounter toxins, thorns, and burrs.
 <p style="text-align:left">Clothing to consider:</p>
 
 - Thick leather gloves (single most important!)
-- Long sleeves and long pants with very tight weave (eg polyester running clothes)
+- Long sleeves and long pants with very tight weave (eg. polyester running clothes)
 - Hat
 - Sturdy shoes (eg. leather boots)
 
-#### Biochar
-
-You cannot leave plants to decompose without propagation risk.
-
-Burning them into biochar terminates them, is carbon neutral ([link](https://sustainability.stackexchange.com/questions/7009/is-burning-wood-the-same-as-letting-it-biodegrade-from-a-co2-emissions-perspecti)), and is a soil encrichment ([link](https://www.climatehubs.usda.gov/hubs/northwest/topic/biochar)).
-
-- Option 1: Burn barrel with dolly so you can burn on site. See online videos for strategy and safety considerations.
-- Option 2: Trench burn is good at handling large quantities. Requires higher degree of safety working with fire.
-
 #### Bagging
 
-If the plant has gone to seed/fruit make sure you bag it immediately on site using non-porous bag (eg. plastic).
+If the plant has gone to seed or fruit make sure you bag it immediately on site using non-porous bag (eg. plastic).
 
 Treat it as a hazardous material.
 
 Don't leave it in the bag to mold.
+
+Take to a composting center, landfill dropoff, or make biochar.
+
+#### Biochar
+
+You can't leave plants to decompose without propagation risk.
+
+Burning them into biochar terminates them, is carbon neutral ([link](https://sustainability.stackexchange.com/questions/7009/is-burning-wood-the-same-as-letting-it-biodegrade-from-a-co2-emissions-perspecti)), and is a soil encrichment ([USDA](https://www.climatehubs.usda.gov/hubs/northwest/topic/biochar), [Terra preta](https://en.wikipedia.org/wiki/Terra_preta)).
+
+- Option 1: Burn barrel with dolly so you can burn on site. See online videos for strategy and safety considerations.
+- Option 2: Trench burn is good at handling large quantities. Requires higher degree of safety with less quality biochar.
 
 ### 2. Displacement
 
@@ -182,9 +177,7 @@ Use when there is vacant space (Exhaustion, Removal)
 
 #### Methods
 
-Two main methods:
-
-1. Convert to barren areas, eg. rocks, mulch, parking lots, buildings.
+1. Convert to barren areas, eg. rocks, parking lots, buildings.
 2. Convert to native areas, see also "Wilding".
 
 ### 3. Exhaustion
@@ -197,30 +190,27 @@ Use when Removal isn't viable
 
 Plants don't respect fences. Invasive plants are great at propagating from elsewhere.
 
-Talk to your neighbors.
-
-[Irvington Burn Fest](https://www.irvburnfest.com/) on October 5, 2025.
+Talk to your neighbors, invite them to the [Irvington Burn Fest](https://www.irvburnfest.com/) on October 5, 2025.
 
 #### Smothering
 
 Cut off energy production (photosynthesis) by covering.
 
-Excellent option for large areas.
-
 First, mow it to the bare ground. Then, add a covering:
 
 - Plastic: UV stabilized plastic, 1000 gauge or 6 mil (~0.15-0.25 mm), remove after a year
-- Bio materials: let cover decompose; cut holes and plant plugs; materials:
+- Bio materials: let the cover decompose over years; cut holes and plant plugs; material options:
   - Cardboard: avoid toxic ink and remove tape; secure to ground with sticks
   - Mulch: 2-4" thick
+  - Dirt: >4" thick?
 
 Note: newspaper, dirt, solarization (clear plastic to heat), propane torch
 
 #### Cutting
 
-Range from precision (loppers/clippers/snips) to annihilation (mowing/weed eating).
+Range from precision (loppers, clippers, snips) to annihilation (mowing, weed eating).
 
-For plants that don't seed/fruit in their first year (eg White Mulberry) you can precision cut once after spring growth and again in fall before winter. Repeat annually.
+For plants that don't seed or fruit in their first year (eg. White Mulberry) you can precision cut once after spring growth and again in fall before winter. Repeat annually.
 
 Note: I do precision cutting with White Mulberry, Japanese Knotweed, vines that climb (English Ivy, Fortune's Spindle), Creeping Thistle.
 
@@ -259,22 +249,22 @@ Requires higher level of skill and more datapoints.
 
 Contributes to research!
 
-#### Genetic Testing
+#### Purdue Plant and Pest Diagnostics Lab (PPDL)
 
 <div style="text-align:left">
 
-The [Purdue Plant and Pest Diagnostics Lab (PPDL)](https://ag.purdue.edu/department/btny/ppdl/) can identify in two ways:
+[PPDL](https://ag.purdue.edu/department/btny/ppdl/) can identify by:
 
 </div>
 
-- Photo Samples (similar to iNaturalist)
-- Physical Samples (DNA test)
+- Photo samples (similar format as iNaturalist)
+- Physical samples (DNA test)
 
-### 5. Legal Understanding
+### 5. Legal Understanding <span class="disclaimer">(NOT ADVICE)</span>
 
 Understand the legal constraints of invasive plant removal.
 
-Use when you are Bio Materia Handling, Poison, or Wilding
+Use when you are Bio Material Handling, Poison, or Wilding
 
 #### Vegetation Height: BNS
 
@@ -311,70 +301,60 @@ Health Department's [Health and Hospital Code Sec. 10-301, 10-302, 10-303](https
   - Municipalities can establish their own ordinances, I couldn't find one for Marion County.
   - Illegal dumping can be a fine up to $2,500.
   - Indy's South Side Landfill captures methane.
-- Dropoff with fee at the [Citizen's Transfer station](https://www.indy.gov/activity/citizens-transfer-station) (Assume it goes to landfill?)
+- Dropoff with fee at the [Citizen's Transfer station](https://www.indy.gov/activity/citizens-transfer-station) <br />(Assume it goes to landfill?)
 
 #### Disposal via Composting
 
-Nothing restricts composting at home, however Health Department flagged my piles of sticks and said they need to be in a compost bin. I made 4' diameter circles using 4' tall chicken wire.
+Compost at home. However, risk of propagation and may be a Health Department violation.
 
-Can also dropoff at a [composting facility listed by IDEM](https://www.in.gov/idem/waste/waste-industries/yard-waste-and-composting-facilities/).
+Dropoff at a [composting facility listed by IDEM](https://www.in.gov/idem/waste/waste-industries/yard-waste-and-composting-facilities/).
+
+Note: My piles of sticks and said they need to be in a compost bin. I made 4' diameter circles using 4' tall chicken wire.
 
 #### Disposal via Burning
 
-While allowed by IDEM it advises against open burning citing harm to human health and environment ([link](https://www.in.gov/idem/waste/waste-industries/yard-waste-and-composting-facilities/), [link](https://www.in.gov/idem/openburning/health-risks-and-environmental-impacts/)).
+IDEM allows but advises against open burning citing harm to human health and environment ([link](https://www.in.gov/idem/waste/waste-industries/yard-waste-and-composting-facilities/), [link](https://www.in.gov/idem/openburning/health-risks-and-environmental-impacts/)).
 
 [Indianapolis Code of Ordinances Section 511-703](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances?nodeId=TITIIIPUHEWE_CH511AIPOCO_ARTVIIGEPR_S511-703LIBUSPPU) allows burning dried limbs, twigs, and branches (but not leaves): originating from the property, between 10 am and 3 pm, 15 ft. distance, sufficiently vented with mesh covering max 0.25", and always attended with means to extinguish.
 
-See also [indy.gov](https://www.indy.gov/activity/open-burning) and [in.gov](https://www.in.gov/dhs/get-prepared/fire-safety/open-burning/) for info and tips.
+See also [indy.gov](https://www.indy.gov/activity/open-burning) and [in.gov](https://www.in.gov/dhs/get-prepared/fire-safety/open-burning/) for info and tips, eg. avoid during [Air Quality Action Days](https://www.in.gov/idem/airquality/air-quality-action-day-aqad-advisories/) or [burn bans](https://www.in.gov/dhs/burn-ban-map/).
 
 Potential liability or fines if fire causes damages or is unsafe.
 
-#### Legality of Sale and Ownership
+#### Poison
 
-Since 2020 the [Indiana Terrestrial Plant Rule 312 IAC 18-3-25](https://iar.iga.in.gov/code/2026/312/18#312-18-3-25) makes it illegal to "sell, offer or grow for sale, gift, barter, exchange, or distribute a species" that's on the list of 44 plants. The only thing you can do if someone owns them is report them to the DNR.
+Regulation of Herbicide (Pesticide) use at Federal is [EPA](https://www.epa.gov/pesticides) and State is [Office of Indiana State Chemist (OISC)](https://oisc.purdue.edu/pesticide/) and Indiana DNR. See [OISC Laws and Rules](https://oisc.purdue.edu/pesticide/laws_regs.html).
 
-The one exception is Tree of Heaven. [Indianapolis Code of Ordinances Section 391-112](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances/358893?nodeId=TITIIPUORSA_CH391NU_ARTIINGE_S391-112AITRTRHEDENU) says it is public nuisance and you must "remove it upon notice by the city to do so", which can be enforced with fines. City is expected to remove them on their property. Call [Mayor's Action Center](https://www.indy.gov/agency/mayors-action-center) 317-327-4622.
+[Marion County Health Department (MCHD)](https://marionhealth.org/hazardous-materials-program/),[OISC](https://oisc.purdue.edu/pesticide/pesticide_complaint_investigations.html), and [IDEM](https://www.in.gov/idem/contact/file-a-complaint/) all handle complaints.
 
-Note: Can you report Tree of Heaven to the city? What about all those by Butler and E Market?
+[MCHD](https://marionhealth.org/hazardous-materials-program/) and [IDEM](https://www.in.gov/idem/cleanups/investigation-and-cleanup-programs/emergency-response/) handle spills and emergency response. [Poison Control](https://www.poison.org/) (1-800-222-1222) can also help.
 
-#### Opinion: Legal Bias Favorable to Invasives
+#### Sale
 
-- It's legal and encouraged to mow everything, which creates the Displacement areas favorable to invasive plants:
-  - "neat lawn" aesthetic is favorable to invasive characteristics
-  - Disturbed areas by roads and fences are ideal for invasives
-- It's legal to grow invasive plants, which can happen even if you mow
-  - Plants that don't look like weeds (eg. Black Locust, Amur Honeysuckle, White Mulberry, Tree of Heaven)
-  - Vines (Fortune's Spindle, English Ivy, Sweet Autumn Clematis)
-  - Extremely fast seeders (Garlic Mustard)
+Since 2020 the [Indiana Terrestrial Plant Rule (312 IAC 18-3-25)](https://iar.iga.in.gov/code/2026/312/18#312-18-3-25) makes it illegal to "sell, offer or grow for sale, gift, barter, exchange, or distribute" only the 44 plants listed.
 
-#### Opinion: Commercial Bias Favorable to Invasives
+[INPS notes](https://indiananativeplants.org/invasive-plants/) nurseries still sell commonly considered invasive species. Dammann's may not sell but at least promotes:
 
-Only flagged species are illegal which happens only if there's proof of an issue.
+<div style="font-size:80%">
 
-- Market will always be faster than legislation.
-- People want novel plants and growing characteristics that favor invasive characteristics.
-- Native plants are hard to find and are costly.
-- Invasive plants don't have to be removed for sale of property
+- "Beautiful, showy [Sweet Autumn] clematis are not as difficult to grow as you might think" ([Accessed Jan 20, 2025](https://dammanns.com/2022/08/30/clematis/))
+- "English Ivy makes a fine choice for the outdoor landscape" ([Accessed Jan 20, 2025](http://plants.dammannsgardenco.com/12130021/Plant/201/English_Ivy/))
+- "Concorde Japanese Barberry makes a fine choice for the outdoor landscape" ([Accessed Jan 20, 2025](http://plants.dammannsgardenco.com/12130021/Plant/3229/Concorde_Japanese_Barberry/))
+- Plant library is < 5% native ([link](dammanns-plant-name-analysis-2025-01-27.md))
 
-#### Opinion: Commercial Bias Favorable to Invasives
+</div>
 
-[INPS notes](https://indiananativeplants.org/invasive-plants/) nurseries still sell commonly considered invasive species.
-
-Dammann's for example:
-
-- "Beautiful, showy [Sweet Autumn] clematis are not as difficult to grow as you might think"
-
-([Accessed Jan 20, 2025](https://dammanns.com/2022/08/30/clematis/))
-
-- "English Ivy makes a fine choice for the outdoor landscape"
-
-([Accessed Jan 20, 2025](http://plants.dammannsgardenco.com/12130021/Plant/201/English_Ivy/))
-
-- Plant inventory is <5% native. (Source: [Dammann's Sitemap.xml](http://plants.dammannsgardenco.com/12130021/SiteMapXML), analyzed by eyeballing and using an LLM (Claude by Anthropic))
+</div>
 
 Note: how many of these will end up on the invasive list?
 
-</div>
+#### Ownership
+
+No restrictions on owning invasive plants. [Indiana Terrestrial Plant Rule (312 IAC 18-3-25)](https://iar.iga.in.gov/code/2026/312/18#312-18-3-25) notes you can report to IDNR, eg. via [EDDMapS](https://www.in.gov/dnr/rules-and-regulations/invasive-species/terrestrial-invasive-species-plants/).
+
+The one exception is Tree of Heaven. [Indianapolis Code of Ordinances Section 391-112](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances/358893?nodeId=TITIIPUORSA_CH391NU_ARTIINGE_S391-112AITRTRHEDENU) says it is public nuisance and you must "remove it upon notice by the city to do so", which can be enforced with fines. City is expected to remove them on city-owned land, call [Mayor's Action Center](https://www.indy.gov/agency/mayors-action-center) 317-327-4622 to report.
+
+Note: Can you report Tree of Heaven to the city? What about all those by Butler and E Market?
 
 ### 6. Perseverance
 
@@ -385,7 +365,7 @@ Use when you put forth any substantial effort
 #### Tips on Persevering
 
 - Think in geological time. You may not see results in your lifetime.
-- 1 plant at a time. 1 year at a time.
+- 1 square foot at a time, 1 year at a time.
 - Remember first principles: do it because it's right, not because it's easy or for results
 - Community support: you aren't alone in the struggle
 - Don't do it alone: invasive removal is a communal effort
@@ -400,20 +380,13 @@ Use when you have more work than time
 
 #### Divide and Conquer
 
-<p style="text-align:left">Identify what doesn't require focus:</p>
+<div class="slide-image">
 
-- Unmanaged barren areas that don't require maintenance (eg. driveway, house, garage).
-- Unmanaged native areas that are wild. Check annually before invasives seed/flower.
-- Unmanaged invasive areas that are contained. Check annually (no seeds/flowers/vine runners).
+![ease-vs-eco-benefit.svg](ease-vs-eco-benefit.svg)
 
-Note: example of unmanaged invasive is Fortune's Spindle with no trees, or a smothered area.
+</div>
 
-#### Divide and Conquer
-
-<p style="text-align:left">And what requires focus:</p>
-
-- Managed native areas that are progressing into wild but still require weeding and invasive removal.
-- Managed invasive areas should immediately be converted into managed native or unmanaged invasive by containment.
+Note: barren=driveway,house,garage; check unmanaged annually; unmanaged invasive contained would be Fortune's Spindle; avoid bottom left
 
 ### 8. Poison
 
@@ -421,15 +394,17 @@ Reduce a plant's energy stores, reproductive means, access to food, or energy pr
 
 Use when drastic measures are required
 
-(cancer analogy: destructive means for greater good)
+(Cancer analogy: destructive means for greater good.)
 
-#### Herbicide Calendar
+#### Herbicide Guidance
+
+CAUTION! Poison is poison, handle accordingly!
+
+[MCSWD](https://www.hamiltonswcd.org/news-articles/herbicideapplicationseries1), [DNR](https://www.in.gov/dnr/forestry/grants-and-help/forestry-best-management-practices/forestry-best-management-practices/forestry-bmp-non-logging-bmps/planting-and-weed-control/), [IDEM](https://www.in.gov/idem/health/common-environmental-health-threats/pests-and-pesticides/), [MCHD](https://marionhealth.org/programs/environmental-health/water-quality-and-hazardous-materials-management/hazardous-materials/) all have warnings and safety tips about herbicide.
 
 State of Indiana Cooperative Invasives Management (SICIM) has an herbicide calendar for most effective treatment and other resources ([link](https://www.sicim.info/control-and-management)).
 
 #### Triclopyr
-
-CAUTION! Poison is poison, handle accordingly!
 
 - Put on plastic gloves
 - Fill dauber bottle
@@ -442,7 +417,7 @@ Note: Used by Dept. of Land Stewardship. Alt method is squirt bottle.
 
 #### White Vinegar and Salt
 
-I've experimented with 50% White Vinegar (the regular 3% stuff) and 50% rock salt. Seems to kill growth of that stem, but not entire plant.
+I've experimented with 50% White Vinegar (the regular 5% stuff) and 50% rock salt dissolved in water. Seems to kill growth of that stem, but not entire plant.
 
 ### 9. Removal
 
@@ -474,20 +449,26 @@ Note: don't hurt yourself!
 
 <p style="text-align:left">Requires more strategy:</p>
 
-- First, cut the canopy down to the ground. Loppers are preferred tool.
-- Dig surrounding the stump about 1' away from center. If shovel can't cut the root dig until roots are exposed and use loppers.
+- First, cut the canopy down to the ground (eg. loppers).
+- Shovel jab 1' around stump to cut roots. If shovel can't cut, dig to expose roots and use loppers.
 - Pry up with bar.
 
 Tips:
 
+- Wait for wet soil, see [GreenCast soil moisture map](https://www.greencastonline.com/tools/soil-moisture)
 - Be careful! Know when its too big.
 - Regular stretching and exercise can boost your skill.
-- Easier when soil is wet.
 
 #### Vines
 
 - Sweet Autumn Clematis you can role each strand into a ball, find root ball, and dig about 12" down to get root ball
 - English Ivy and Fortune's Spindle are impossible, there isn't a root ball; use another method like Exhaustion
+
+#### GIST Handbook and Tools
+
+Global Invasive Species Team [Weed Control Methods Handbook](https://www.invasive.org/gist/handbook.html) and [tool reviews](https://www.invasive.org/gist/tools.html) have a lot of tips and ideas.
+
+Note: I've theorized about some of those tools
 
 ### 10. Wilding
 
@@ -499,8 +480,8 @@ Use when you want to minimize effort and maximize ecological benefit
 
 - Key is to make a space where invasives can't get a foothold
 - Disturbing areas give invasives a foothold
-  - Notice they congregate around fences, suburbs, and highways?
-- Remove anything that prevents native growth (eg invasive plants, trash)
+  - Notice they congregate around fences and highways?
+- Remove anything that prevents native growth (eg. invasive plants, rocks, trash)
 
 #### Biotic Resistance!
 
@@ -510,7 +491,7 @@ It's a numbers game:
 - Riverbank Grapevine > Fortune's Spindle
 - Goldenrod > Fortune's Spindle, Amur Honeysuckle
 
-See "The Cover It Up Project" by University of Minnesota [research findings](https://coveritup.umn.edu/findings) and In Defense of Plants podcast episode ["The Power of Biotic Resistance"](https://www.indefenseofplants.com/podcast/2025/1/16/ep-509-the-power-of-biotic-resistance).
+See "The Cover It Up Project" by University of Minnesota [research findings](https://coveritup.umn.edu/findings) and the In Defense of Plants podcast episode ["The Power of Biotic Resistance"](https://www.indefenseofplants.com/podcast/2025/1/16/ep-509-the-power-of-biotic-resistance).
 
 Note: Buckthron sounds like its similar
 
@@ -1128,7 +1109,7 @@ Grows anywhere, sapling usually single stem
 
 <div class="caption">
 
-Long leaves, tropical vibe, new leaves have brownish
+Long leaves, tropical vibe, new growth has brownish gradient
 
 ([Photo CC © Skyler Principe](https://www.inaturalist.org/photos/218081043))
 
@@ -1182,7 +1163,7 @@ Grows tall (>80')
 
 <div class="caption">
 
-Polka bark, tassel growth at top, stumpy ends in winter
+Polka bark, tassel growth at top, noticeable stumpy ends in winter
 
 ([Photo CC © Гущина Ангелина Викторовна](https://www.inaturalist.org/photos/272623252))
 
@@ -1196,7 +1177,7 @@ Polka bark, tassel growth at top, stumpy ends in winter
 
 <div class="caption">
 
-New bark can be green or brown w/o polka
+New bark can be green or brown without polka
 
 ([Photo CC © Ulises Emmanuel Martínez Burgos](https://www.inaturalist.org/photos/96330429))
 
@@ -1240,7 +1221,7 @@ Tree of Heaven
 
 </div>
 
-<h5 class="fragment hint" data-fragment-index="1">Hint: Tree of Heaven stinks! (break stem/rub leaf)</h5>
+<h5 class="fragment hint" data-fragment-index="1">Hint: Tree of Heaven stinks! (break stem or rub leaf)</h5>
 
 </div>
 
@@ -1256,10 +1237,10 @@ Cats are an invasive species if you let them outside.
 How to treat:
 
 - Put them inside
-- Confined outdoor space (eg electric fence or leash)
-- Reduce the amount of time outside (eg keep indoors early morning and late afternoon when birds feed)
+- Confined outdoor space (eg. electric fence or leash)
+- Reduce the amount of time outside (eg. keep indoors early morning and late afternoon when birds feed)
 - Attach a bell to its collar to alert wildlife
-- Use a collar that visually alerts wildlife (eg Birdsbesafe)
+- Use a collar that visually alerts wildlife (eg. Birdsbesafe)
 
 ## Recap <!-- omit in toc -->
 
@@ -1289,13 +1270,12 @@ How to treat:
 ## Start Today
 
 1. Download [Seek app](https://www.inaturalist.org/pages/seek_app) (Apple and Android)
-2. Take the [Circle City CISMA Survey](https://www.sicim.info/cismas) ([direct link](https://www.surveymonkey.com/r/KQ3TPZQ))
-3. Follow the [SICIM Weed Wrangle calendar](https://www.sicim.info/weed-wrangle-indiana)
-4. Mark your calendar for October 5, 2025 and bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/)
+2. Take the [Circle City CISMA Survey](https://www.sicim.info/cismas) ([direct link](https://www.surveymonkey.com/r/KQ3TPZQ)) and follow the [Weed Wrangle calendar](https://www.sicim.info/weed-wrangle-indiana)
+3. Mark your calendar for October 5, 2025 and bring friendly neighbors and invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/)
 
 ## Resources <!-- omit in toc -->
 
-<div style="font-size:80%">
+<div style="font-size:70%">
 
 - [Seek app](https://www.inaturalist.org/pages/seek_app) and [iNaturalist](https://www.inaturalist.org/) website
 - [State of Indiana Cooperative Invasives Management (SICIM) Resources](https://www.sicim.info/control-and-management)
@@ -1309,6 +1289,8 @@ How to treat:
 - [Indy Urban Acres (Indy Parks Alliance)](https://www.parks-alliance.org/projects/indy-urban-acres/)
 - [Indiana Native Plant Society (INPS)](https://indiananativeplants.org/)
 - [Global Invasive Species Team Resources](https://www.invasive.org/gist/control.html) <br /><span style="font-size:80%">Weed Control Methods Handbook and Tool Reviews</span>
+- [Home Grown National Park Plant Finding Resources](https://homegrownnationalpark.org/native-plants-finder/)<br /><span style="font-size:80%">(2 of the 11 databases are Indiana: INPS and IWF)</span>
+- [GreenCast soil moisture map](https://www.greencastonline.com/tools/soil-moisture)
 
 </div>
 
@@ -1319,24 +1301,3 @@ How to treat:
 [Link to slides](https://josephdpurcell.github.io/how-to-remove-invasive-plants/presentations/2025-01-27-IGC/index.html)
 
 </div>
-
-<!--
-
-Visual aids to consider:
-- leather gloves, polyester shirt/pants, hat
-- triclopyr stuff: dauber bottle, tool to open them, gloves, squirt bottle
-- trowel, shovel, pry bar
-- photo of burn barrel
-
-
-
-NOTES to maybe include?
-
-
-Ultimately, you decide the future of the species.
-
-60% of land is private so despite what any USDA or IISC list says is invasive they won't do anything about plants in your yard.
-
-Our singular focus is non-native invasive plants that are unquestionably harmful to the native ecosystem.
-
--->

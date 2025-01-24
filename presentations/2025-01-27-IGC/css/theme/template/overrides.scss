@@ -49,6 +49,7 @@
     }
     img {
       margin: 0;
+      max-height: 55vh;
     }
   }
 
@@ -98,8 +99,13 @@
     text-align: center;
   }
 
+  section > section:first-child .disclaimer {
+    display: block;
+  }
+
   .caption {
     font-size: 80%;
+    max-width: 95%;
 
     p {
       margin: 0;
