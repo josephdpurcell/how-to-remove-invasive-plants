@@ -116,7 +116,9 @@ Resources: [IISC](https://ag.purdue.edu/department/entm/iisc/), [GISD](https://w
 
 ### Perspective Matters <!-- omit in toc -->
 
-Trumpet Vine is a non-invasive native in Indiana ([USDA](https://plants.usda.gov/plant-profile/CARA2), [Natureserve](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.148989/Campsis_radicans)).
+Trumpet Vine is a non-invasive native in Indiana
+
+([USDA](https://plants.usda.gov/plant-profile/CARA2), [Natureserve](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.148989/Campsis_radicans)).
 
 In practice some call it invasive because it invades managed areas (eg. gardens).
 
@@ -153,7 +155,11 @@ You will encounter toxins, thorns, and burrs.
 
 You cannot leave plants to decompose without propagation risk.
 
-Burning them into biochar terminates them, is carbon neutral ([link](https://sustainability.stackexchange.com/questions/7009/is-burning-wood-the-same-as-letting-it-biodegrade-from-a-co2-emissions-perspecti)), and is a soil encrichment ([link](https://www.climatehubs.usda.gov/hubs/northwest/topic/biochar)).
+Burning them into biochar terminates them, is carbon neutral
+
+([link](https://sustainability.stackexchange.com/questions/7009/is-burning-wood-the-same-as-letting-it-biodegrade-from-a-co2-emissions-perspecti)), and is a soil encrichment
+
+([link](https://www.climatehubs.usda.gov/hubs/northwest/topic/biochar)).
 
 - Option 1: Burn barrel with dolly so you can burn on site. See online videos for strategy and safety considerations.
 - Option 2: Trench burn is good at handling large quantities. Requires higher degree of safety working with fire.
@@ -313,7 +319,9 @@ Can also dropoff at a [composting facility listed by IDEM](https://www.in.gov/id
 
 #### Disposal via Burning
 
-While allowed by IDEM it advises against open burning citing harm to human health and environment ([link](https://www.in.gov/idem/waste/waste-industries/yard-waste-and-composting-facilities/), [link](https://www.in.gov/idem/openburning/health-risks-and-environmental-impacts/)).
+While allowed by IDEM it advises against open burning citing harm to human health and environment
+
+([link](https://www.in.gov/idem/waste/waste-industries/yard-waste-and-composting-facilities/), [link](https://www.in.gov/idem/openburning/health-risks-and-environmental-impacts/)).
 
 [Indianapolis Code of Ordinances Section 511-703](https://library.municode.com/in/indianapolis_-_marion_county/codes/code_of_ordinances?nodeId=TITIIIPUHEWE_CH511AIPOCO_ARTVIIGEPR_S511-703LIBUSPPU) allows burning dried limbs, twigs, and branches (but not leaves): originating from the property, between 10 am and 3 pm, 15 ft. distance, sufficiently vented with mesh covering max 0.25", and always attended with means to extinguish.
 
@@ -354,8 +362,14 @@ Only flagged species are illegal which happens only if there's proof of an issue
 
 Dammann's for example:
 
-- "Beautiful, showy [Sweet Autumn] clematis are not as difficult to grow as you might think" ([Accessed Jan 20, 2025](https://dammanns.com/2022/08/30/clematis/))
-- "English Ivy makes a fine choice for the outdoor landscape" ([Accessed Jan 20, 2025](http://plants.dammannsgardenco.com/12130021/Plant/201/English_Ivy/))
+- "Beautiful, showy [Sweet Autumn] clematis are not as difficult to grow as you might think"
+
+([Accessed Jan 20, 2025](https://dammanns.com/2022/08/30/clematis/))
+
+- "English Ivy makes a fine choice for the outdoor landscape"
+
+([Accessed Jan 20, 2025](http://plants.dammannsgardenco.com/12130021/Plant/201/English_Ivy/))
+
 - Plant inventory is <5% native. (Source: [Dammann's Sitemap.xml](http://plants.dammannsgardenco.com/12130021/SiteMapXML), analyzed by eyeballing and using an LLM (Claude by Anthropic))
 
 Note: how many of these will end up on the invasive list?
@@ -411,7 +425,9 @@ Use when drastic measures are required
 
 #### Herbicide Calendar
 
-State of Indiana Cooperative Invasives Management (SICIM) has an herbicide calendar for most effective treatment and other resources ([link](https://www.sicim.info/control-and-management)).
+State of Indiana Cooperative Invasives Management (SICIM) has an herbicide calendar for most effective treatment and other resources
+
+([link](https://www.sicim.info/control-and-management)).
 
 #### Triclopyr
 
@@ -532,6 +548,18 @@ Re-register every 3 years
 
 ####
 
+![amur-honeysuckle-bush.jpg](media/amur-honeysuckle-bush.jpg)
+
+<div class="caption">
+
+Grows <20', nearly evergreen, and is **everywhere...**
+
+([Photo CC © Leila Dasher](https://www.inaturalist.org/photos/264442929))
+
+</div>
+
+####
+
 <div class="img--two-col">
 
 <div class="img--col">
@@ -540,7 +568,9 @@ Re-register every 3 years
 
 <div class="caption">
 
-White flowers in summer ([Photo CC ©Andrew Conboy](https://www.inaturalist.org/photos/277949422))
+White flowers in summer
+
+([Photo CC ©Andrew Conboy](https://www.inaturalist.org/photos/277949422))
 
 </div>
 
@@ -552,7 +582,9 @@ White flowers in summer ([Photo CC ©Andrew Conboy](https://www.inaturalist.org/
 
 <div class="caption">
 
-Red berries in fall ([Photo CC ©theo_witsell](https://www.inaturalist.org/photos/24862276))
+Red berries in fall
+
+([Photo CC ©theo_witsell](https://www.inaturalist.org/photos/24862276))
 
 </div>
 
@@ -570,7 +602,9 @@ Red berries in fall ([Photo CC ©theo_witsell](https://www.inaturalist.org/photo
 
 <div class="caption">
 
-Flakey bark ([Photo CC ©heathjohnson15](https://www.inaturalist.org/photos/105065254))
+Patterned bark
+
+([Photo CC ©heathjohnson15](https://www.inaturalist.org/photos/105065254))
 
 </div>
 
@@ -582,7 +616,9 @@ Flakey bark ([Photo CC ©heathjohnson15](https://www.inaturalist.org/photos/1050
 
 <div class="caption">
 
-Hallow stems ([Photo CC By Mirko Schoenitz](https://www.inaturalist.org/photos/201309073))
+Hallow stems
+
+([Photo CC By Mirko Schoenitz](https://www.inaturalist.org/photos/201309073))
 
 </div>
 
@@ -600,7 +636,9 @@ Hallow stems ([Photo CC By Mirko Schoenitz](https://www.inaturalist.org/photos/2
 
 <div class="caption">
 
-Sapling single stem opposite leaves ([Photo CC © andreah99](https://www.inaturalist.org/photos/331967002))
+Sapling single stem opposite leaves
+
+([Photo CC © andreah99](https://www.inaturalist.org/photos/331967002))
 
 </div>
 
@@ -612,7 +650,9 @@ Sapling single stem opposite leaves ([Photo CC © andreah99](https://www.inatura
 
 <div class="caption">
 
-Sapling bunch of leaves ([Photo CC © Gaudaceous Cress](https://www.inaturalist.org/photos/354013738))
+Sapling bundle of stems
+
+([Photo CC © Gaudaceous Cress](https://www.inaturalist.org/photos/354013738))
 
 </div>
 
@@ -632,7 +672,9 @@ Sapling bunch of leaves ([Photo CC © Gaudaceous Cress](https://www.inaturalist.
 
 <div class="caption fragment fade-in" data-fragment-index="1">
 
-Amur Honeysuckle sapling ([Photo CC © mpagett](https://www.inaturalist.org/photos/269565359))
+Amur Honeysuckle sapling
+
+([Photo CC © mpagett](https://www.inaturalist.org/photos/269565359))
 
 </div>
 
@@ -644,7 +686,9 @@ Amur Honeysuckle sapling ([Photo CC © mpagett](https://www.inaturalist.org/phot
 
 <div class="caption fragment fade-in" data-fragment-index="1">
 
-Roughleaf Dogwood sapling ([Photo CC © wjleo](https://www.inaturalist.org/photos/374761889))
+Roughleaf Dogwood sapling
+
+([Photo CC © wjleo](https://www.inaturalist.org/photos/374761889))
 
 </div>
 
@@ -672,7 +716,9 @@ Note: I can't tell the difference based on leaves, only when they are >4' you ca
 
 <div class="caption">
 
-Red berries in fall ([Photo CC © Chuck Cantley](https://www.inaturalist.org/photos/452492499))
+Red berries in fall
+
+([Photo CC © Chuck Cantley](https://www.inaturalist.org/photos/452492499))
 
 </div>
 
@@ -684,7 +730,9 @@ Red berries in fall ([Photo CC © Chuck Cantley](https://www.inaturalist.org/pho
 
 <div class="caption">
 
-Evergreen ([Photo CC © mattstanton](https://www.inaturalist.org/photos/243622572))
+Evergreen
+
+([Photo CC © mattstanton](https://www.inaturalist.org/photos/243622572))
 
 </div>
 
@@ -702,7 +750,9 @@ Evergreen ([Photo CC © mattstanton](https://www.inaturalist.org/photos/24362257
 
 <div class="caption">
 
-Hairy vine ([Photo CC © mecarr](https://www.inaturalist.org/photos/25835731))
+Hairy vine
+
+([Photo CC © mecarr](https://www.inaturalist.org/photos/25835731))
 
 </div>
 
@@ -714,7 +764,9 @@ Hairy vine ([Photo CC © mecarr](https://www.inaturalist.org/photos/25835731))
 
 <div class="caption">
 
-Branches out ([Photo CC © Chuck Cantley](https://www.inaturalist.org/photos/452492509))
+Branches out
+
+([Photo CC © Chuck Cantley](https://www.inaturalist.org/photos/452492509))
 
 </div>
 
@@ -736,7 +788,9 @@ Note: can be standalone bush
 
 <div class="caption fragment fade-in" data-fragment-index="1">
 
-Fortune's Spindle berries ([Photo CC © Scott Deerwester](https://www.inaturalist.org/photos/245200717))
+Fortune's Spindle berries
+
+([Photo CC © Scott Deerwester](https://www.inaturalist.org/photos/245200717))
 
 </div>
 
@@ -748,7 +802,9 @@ Fortune's Spindle berries ([Photo CC © Scott Deerwester](https://www.inaturalis
 
 <div class="caption fragment fade-in" data-fragment-index="1">
 
-American Bittersweet berries ([Photo CC © Thomas Koffel](https://www.inaturalist.org/photos/61566480))
+American Bittersweet berries
+
+([Photo CC © Thomas Koffel](https://www.inaturalist.org/photos/61566480))
 
 </div>
 
@@ -775,7 +831,9 @@ Note: native has no leaves
 
 <div class="caption">
 
-Seedling ([Photo CC ©Tom Arata](https://www.inaturalist.org/photos/67180528))
+Seedling
+
+([Photo CC ©Tom Arata](https://www.inaturalist.org/photos/67180528))
 
 </div>
 
@@ -787,7 +845,9 @@ Seedling ([Photo CC ©Tom Arata](https://www.inaturalist.org/photos/67180528))
 
 <div class="caption">
 
-Common on fences ([Photo CC ©binda66](https://www.inaturalist.org/photos/154444020))
+Common on fences
+
+([Photo CC ©binda66](https://www.inaturalist.org/photos/154444020))
 
 </div>
 
@@ -805,7 +865,9 @@ Common on fences ([Photo CC ©binda66](https://www.inaturalist.org/photos/154444
 
 <div class="caption">
 
-Covers almost everything ([Photo CC ©Jason](https://www.inaturalist.org/photos/153730851))
+Covers almost everything
+
+([Photo CC ©Jason](https://www.inaturalist.org/photos/153730851))
 
 </div>
 
@@ -817,7 +879,9 @@ Covers almost everything ([Photo CC ©Jason](https://www.inaturalist.org/photos/
 
 <div class="caption">
 
-Fluffy seeds can get airborn ([Photo CC ©lmbenoit](https://www.inaturalist.org/photos/331282507))
+Fluffy seeds can get airborn
+
+([Photo CC ©lmbenoit](https://www.inaturalist.org/photos/331282507))
 
 </div>
 
@@ -835,9 +899,126 @@ Note: doesn't cover American Blackraspberry
 
 ### 4. White Mulberry (Morus alba)
 
-Treatment: doesn't fruit till mature; cut annually to exhaust or cut to stump and daub w/herbicide
+####
 
-Note: too physically difficult to dig or pull up
+<div class="img--two-col">
+
+<div class="img--col">
+
+![white-mulberry-leaves-1.jpg](media/white-mulberry-leaves-1.jpg)
+
+<div class="caption">
+
+Pointy leaves
+
+([Photo CC © botany08](https://www.inaturalist.org/photos/403908493))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![white-mulberry-leaves-2.jpg](media/white-mulberry-leaves-2.jpg)
+
+<div class="caption">
+
+1, 2, or 3 lobes can be on same tree
+
+([Photo CC © Alan Prather](https://www.inaturalist.org/photos/402690141))
+
+</div>
+
+</div>
+
+</div>
+
+####
+
+<div class="img--three-col">
+
+<div class="img--col">
+
+![white-mulberry-sapling-1.jpg](media/white-mulberry-sapling-1.jpg)
+
+<div class="caption">
+
+Often single stem
+
+([Photo CC © botany08](https://www.inaturalist.org/photos/403908493))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![white-mulberry-sapling-2.jpg](media/white-mulberry-sapling-2.jpg)
+
+<div class="caption">
+
+Grows anywhere
+
+([Photo CC © botany08](https://www.inaturalist.org/photos/403908493))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![white-mulberry-bark.jpg](media/white-mulberry-bark.jpg)
+
+<div class="caption">
+
+Sapling bark is polka
+
+([Photo CC © Alan Prather](https://www.inaturalist.org/photos/402690141))
+
+</div>
+
+</div>
+
+</div>
+
+####
+
+<div class="img--two-col">
+
+<div class="img--col">
+
+![white-mulberry-fruit.jpeg](media/white-mulberry-fruit.jpeg)
+
+<div class="caption">
+
+Mature trees fruit (>5 yrs)
+
+([Photo CC © botany08](https://www.inaturalist.org/photos/403908493))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![white-mulberry-tall.jpeg](media/white-mulberry-tall.jpeg)
+
+<div class="caption">
+
+Grows tall (>50')
+
+([Photo CC © Alan Prather](https://www.inaturalist.org/photos/402690141))
+
+</div>
+
+</div>
+
+</div>
+
+#### Treatment
+
+- `<4'` shovel and fully dig when ground is wet (too strong to hand pull)
+- `>4'` dig stump or cut down to stump and daub w/herbicide; or exhaust by cutting annually (doesn't fruit till mature)
 
 ### 5. Tree of Heaven (Ailanthus altissima)
 
@@ -885,9 +1066,9 @@ How to treat:
 ## Start Today
 
 1. Download [Seek app](https://www.inaturalist.org/pages/seek_app) (Apple and Android)
-2. Take the [Circle City CISMA Survey](https://www.sicim.info/cismas) ([direct link](https://www.surveymonkey.com/r/KQ3TPZQ))
-3. Follow the [SICIM Weed Wrangle calendar](https://www.sicim.info/weed-wrangle-indiana)
-4. Mark your calendar for October 5, 2025 and bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/)
+2. Take the [Circle City CISMA Survey](https://www.sicim.info/cismas)
+
+([direct link](https://www.surveymonkey.com/r/KQ3TPZQ)) 3. Follow the [SICIM Weed Wrangle calendar](https://www.sicim.info/weed-wrangle-indiana) 4. Mark your calendar for October 5, 2025 and bring invasive plants to the [Irvington Burn Fest](https://irvburnfest.com/)
 
 ## Resources <!-- omit in toc -->
 

@@ -433,6 +433,10 @@ section.has-light-background, section.has-light-background h1, section.has-light
   width: 50%;
   float: left;
 }
+.reveal .img--three-col .img--col {
+  width: 33%;
+  float: left;
+}
 .reveal blockquote {
   text-align: center;
 }

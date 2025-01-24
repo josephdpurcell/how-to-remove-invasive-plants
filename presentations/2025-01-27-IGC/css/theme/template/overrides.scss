@@ -84,6 +84,13 @@
     }
   }
 
+  .img--three-col {
+    .img--col {
+      width: 33%;
+      float: left;
+    }
+  }
+
   blockquote {
     text-align: center;
   }
