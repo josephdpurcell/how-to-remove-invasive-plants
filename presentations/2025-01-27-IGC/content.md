@@ -86,6 +86,8 @@ Resources: [BONAP](http://www.bonap.org/), [USDA](https://plants.usda.gov/), [IT
 
 </div>
 
+Note: has legal definitions but doesn't seem to relate to anything enforceable?
+
 ### Net-negative Benefit
 
 - Offers little or no food supply (for native life)
@@ -108,21 +110,25 @@ Example: my childhood forrest is unmanaged, but the home and farm nearby where t
 
 ### Invasive vs Non-Invasive
 
-Invasive species result in net-negative benefit for an ecosystem. (eg. Fortune's Spindle)
+Invasive species result in net-negative benefit for an ecosystem.
 
-Non-invasive species are neutral or positive. (eg. Tomatoes)
+(eg. Fortune's Spindle)
+
+Non-invasive species are neutral or positive.
+
+(eg. Tomatoes)
 
 Resources: [IISC](https://ag.purdue.edu/department/entm/iisc/), [GISD](https://www.iucngisd.org/gisd/), [NISIC](https://www.invasivespeciesinfo.gov/terrestrial/plants), [NatureServe](https://explorer.natureserve.org/)
 
 ### Perspective Matters <!-- omit in toc -->
 
-Trumpet Vine is a non-invasive native in Indiana
-
-([USDA](https://plants.usda.gov/plant-profile/CARA2), [Natureserve](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.148989/Campsis_radicans)).
+Trumpet Vine is legally a non-invasive native in Indiana ([USDA](https://plants.usda.gov/plant-profile/CARA2), [Natureserve](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.148989/Campsis_radicans)).
 
 In practice some call it invasive because it invades managed areas (eg. gardens).
 
 Poison Ivy is a non-invasive native...
+
+Differences between legal and common understandings requires deep dive into [Federal and State](https://www.invasivespeciesinfo.gov/subject/lists) regulations.
 
 ## Skills
 
@@ -511,6 +517,10 @@ It's a numbers game:
 - American Black Raspberry > Fortune's Spindle, Sweet Autumn Clematis
 - Riverbank Grapevine > Fortune's Spindle
 - Goldenrod > Fortune's Spindle, Amur Honeysuckle
+
+See "The Cover It Up Project" by University of Minnesota [research findings](https://coveritup.umn.edu/findings) and In Defense of Plants podcast episode ["The Power of Biotic Resistance"](https://www.indefenseofplants.com/podcast/2025/1/16/ep-509-the-power-of-biotic-resistance).
+
+Note: Buckthron sounds like its similar
 
 #### Buy Natives
 
