@@ -540,7 +540,7 @@ Re-register every 3 years
 
 <div class="caption">
 
-White flowers summer ([Photo CC ©Andrew Conboy](https://www.inaturalist.org/photos/277949422))
+White flowers in summer ([Photo CC ©Andrew Conboy](https://www.inaturalist.org/photos/277949422))
 
 </div>
 
@@ -552,7 +552,7 @@ White flowers summer ([Photo CC ©Andrew Conboy](https://www.inaturalist.org/pho
 
 <div class="caption">
 
-Red berries fall ([Photo CC ©theo_witsell](https://www.inaturalist.org/photos/24862276))
+Red berries in fall ([Photo CC ©theo_witsell](https://www.inaturalist.org/photos/24862276))
 
 </div>
 
@@ -582,7 +582,7 @@ Flakey bark ([Photo CC ©heathjohnson15](https://www.inaturalist.org/photos/1050
 
 <div class="caption">
 
-Hallow stems ([Photo CC iNaturalist](https://www.inaturalist.org/observations/119106952))
+Hallow stems ([Photo CC By Mirko Schoenitz](https://www.inaturalist.org/photos/201309073))
 
 </div>
 
@@ -600,7 +600,7 @@ Hallow stems ([Photo CC iNaturalist](https://www.inaturalist.org/observations/11
 
 <div class="caption">
 
-Sapling single stem opposite leaves ([Photo CC iNaturalist](https://www.inaturalist.org/observations/189491399))
+Sapling single stem opposite leaves ([Photo CC © andreah99](https://www.inaturalist.org/photos/331967002))
 
 </div>
 
@@ -612,7 +612,7 @@ Sapling single stem opposite leaves ([Photo CC iNaturalist](https://www.inatural
 
 <div class="caption">
 
-Sapling bunch of leaves ([Photo CC iNaturalist](https://www.inaturalist.org/observations/151764521))
+Sapling bunch of leaves ([Photo CC © Gaudaceous Cress](https://www.inaturalist.org/photos/354013738))
 
 </div>
 
@@ -622,7 +622,7 @@ Sapling bunch of leaves ([Photo CC iNaturalist](https://www.inaturalist.org/obse
 
 ####
 
-<h5>Which is Amur Honeysuckle and which is Roughleaf Dogwood?</h5>
+<h5>Which is native Roughleaf Dogwood?</h5>
 
 <div class="img--two-col">
 
@@ -632,7 +632,7 @@ Sapling bunch of leaves ([Photo CC iNaturalist](https://www.inaturalist.org/obse
 
 <div class="caption fragment fade-in" data-fragment-index="1">
 
-Amur Honeysuckle sapling ([Photo CC iNaturalist](https://www.inaturalist.org/observations/155920293))
+Amur Honeysuckle sapling ([Photo CC © mpagett](https://www.inaturalist.org/photos/269565359))
 
 </div>
 
@@ -644,13 +644,15 @@ Amur Honeysuckle sapling ([Photo CC iNaturalist](https://www.inaturalist.org/obs
 
 <div class="caption fragment fade-in" data-fragment-index="1">
 
-Roughleaf Dogwood sapling ([Photo CC iNaturalist](https://www.inaturalist.org/observations/212049195))
+Roughleaf Dogwood sapling ([Photo CC © wjleo](https://www.inaturalist.org/photos/374761889))
 
 </div>
 
 </div>
 
 </div>
+
+Note: I can't tell the difference based on leaves, only when they are >4' you can tell
 
 #### Treatment
 
@@ -660,11 +662,176 @@ Roughleaf Dogwood sapling ([Photo CC iNaturalist](https://www.inaturalist.org/ob
 
 ### 2. Fortune's Spindle (Euonymus fortunei)
 
-Treatment: only seeds on trees in Fall, so keep off! For patches, grind down to ground and smother.
+####
+
+<div class="img--two-col">
+
+<div class="img--col">
+
+![fortune-berries.jpeg](media/fortune-berries.jpeg)
+
+<div class="caption">
+
+Red berries in fall ([Photo CC © Chuck Cantley](https://www.inaturalist.org/photos/452492499))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![fortune-leaves.jpg](media/fortune-leaves.jpg)
+
+<div class="caption">
+
+Evergreen ([Photo CC © mattstanton](https://www.inaturalist.org/photos/243622572))
+
+</div>
+
+</div>
+
+</div>
+
+####
+
+<div class="img--two-col">
+
+<div class="img--col">
+
+![fortune-vine.jpeg](media/fortune-vine.jpeg)
+
+<div class="caption">
+
+Hairy vine ([Photo CC © mecarr](https://www.inaturalist.org/photos/25835731))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![fortune-branches.jpeg](media/fortune-branches.jpeg)
+
+<div class="caption">
+
+Branches out ([Photo CC © Chuck Cantley](https://www.inaturalist.org/photos/452492509))
+
+</div>
+
+</div>
+
+</div>
+
+Note: can be standalone bush
+
+####
+
+<h5>Which is native American Bittersweet?</h5>
+
+<div class="img--two-col">
+
+<div class="img--col">
+
+![fortune-berries-2.jpg](media/fortune-berries-2.jpg)
+
+<div class="caption fragment fade-in" data-fragment-index="1">
+
+Fortune's Spindle berries ([Photo CC © Scott Deerwester](https://www.inaturalist.org/photos/245200717))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![bittersweet-berries.jpeg](media/bittersweet-berries.jpeg)
+
+<div class="caption fragment fade-in" data-fragment-index="1">
+
+American Bittersweet berries ([Photo CC © Thomas Koffel](https://www.inaturalist.org/photos/61566480))
+
+</div>
+
+</div>
+
+</div>
+
+Note: native has no leaves
+
+#### Treatment
+
+1. Keep below 2' to prevent fruiting (eg. trees); cut 1" section out and daub lower part with herbicide.
+2. For patches grind down to ground and smother.
 
 ### 3. Sweet Autumn Clematis (Clematis terniflora)
 
-Treatment: seeds everywhere in Fall; roll up strand-by-strand and shovel 12" to dig up root ball.
+####
+
+<div class="img--two-col">
+
+<div class="img--col">
+
+![sweet-clematis-sapling.jpg](media/sweet-clematis-sapling.jpg)
+
+<div class="caption">
+
+Seedling ([Photo CC ©Tom Arata](https://www.inaturalist.org/photos/67180528))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![sweet-clematis-fence.jpg](media/sweet-clematis-fence.jpg)
+
+<div class="caption">
+
+Common on fences ([Photo CC ©binda66](https://www.inaturalist.org/photos/154444020))
+
+</div>
+
+</div>
+
+</div>
+
+####
+
+<div class="img--two-col">
+
+<div class="img--col">
+
+![sweet-clematis-cover.jpg](media/sweet-clematis-cover.jpg)
+
+<div class="caption">
+
+Covers almost everything ([Photo CC ©Jason](https://www.inaturalist.org/photos/153730851))
+
+</div>
+
+</div>
+
+<div class="img--col">
+
+![sweet-clematis-seeds.jpg](media/sweet-clematis-seeds.jpg)
+
+<div class="caption">
+
+Fluffy seeds can get airborn ([Photo CC ©lmbenoit](https://www.inaturalist.org/photos/331282507))
+
+</div>
+
+</div>
+
+</div>
+
+Note: doesn't cover American Blackraspberry
+
+#### Treatment
+
+- Must remove before seeds (which happens after flowers)
+- Roll up strand-by-strand and shovel 12" to dig up root ball, or Exhaust
+- If seeded bag on site!
 
 ### 4. White Mulberry (Morus alba)
 
