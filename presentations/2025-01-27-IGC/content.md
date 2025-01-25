@@ -291,13 +291,13 @@ Health Department's [Health and Hospital Code Sec. 10-301, 10-302, 10-303](https
 
 - No exemptions
 - Penalty up to $250 and/or enforcement case up to $2,500 per violation per day
-- Health Dept. can enter your property to "correct" and bill you for costs
+- Health Dept. can enter your property to "correct" and bill you
 - Failure to pay can become a lien
 
 #### Disposal in Trash
 
 - Vegetative matter produces methane in anaerobic environments, so trash is not a good option.
-  - However, [Indiana Code 13-20-9](https://iga.in.gov/laws/2024/ic/titles/13#13-20-9) allows grass or bundled/bagged woody vegetative matter less <3', but not leaves.
+  - However, [Indiana Code 13-20-9](https://iga.in.gov/laws/2024/ic/titles/13#13-20-9) allows house plants, grass, or bundled/bagged woody vegetative matter less <3', but not leaves.
   - Municipalities can establish their own ordinances, I couldn't find one for Marion County.
   - Illegal dumping can be a fine up to $2,500.
   - Indy's South Side Landfill captures methane.
@@ -325,7 +325,7 @@ Potential liability or fines if fire causes damages or is unsafe.
 
 Regulation of Herbicide (Pesticide) use at Federal is [EPA](https://www.epa.gov/pesticides) and State is [Office of Indiana State Chemist (OISC)](https://oisc.purdue.edu/pesticide/) and Indiana DNR. See [OISC Laws and Rules](https://oisc.purdue.edu/pesticide/laws_regs.html).
 
-[Marion County Health Department (MCHD)](https://marionhealth.org/hazardous-materials-program/),[OISC](https://oisc.purdue.edu/pesticide/pesticide_complaint_investigations.html), and [IDEM](https://www.in.gov/idem/contact/file-a-complaint/) all handle complaints.
+[Marion County Health Department (MCHD)](https://marionhealth.org/hazardous-materials-program/), [OISC](https://oisc.purdue.edu/pesticide/pesticide_complaint_investigations.html), and [IDEM](https://www.in.gov/idem/contact/file-a-complaint/) all handle complaints.
 
 [MCHD](https://marionhealth.org/hazardous-materials-program/) and [IDEM](https://www.in.gov/idem/cleanups/investigation-and-cleanup-programs/emergency-response/) handle spills and emergency response. [Poison Control](https://www.poison.org/) (1-800-222-1222) can also help.
 
@@ -335,11 +335,11 @@ Since 2020 the [Indiana Terrestrial Plant Rule (312 IAC 18-3-25)](https://iar.ig
 
 [INPS notes](https://indiananativeplants.org/invasive-plants/) nurseries still sell commonly considered invasive species. Dammann's may not sell but at least promotes:
 
-<div style="font-size:80%">
+<div style="font-size:75%">
 
 - "Beautiful, showy [Sweet Autumn] clematis are not as difficult to grow as you might think" ([Accessed Jan 20, 2025](https://dammanns.com/2022/08/30/clematis/))
 - "English Ivy makes a fine choice for the outdoor landscape" ([Accessed Jan 20, 2025](http://plants.dammannsgardenco.com/12130021/Plant/201/English_Ivy/))
-- "Concorde Japanese Barberry makes a fine choice for the outdoor landscape" ([Accessed Jan 20, 2025](http://plants.dammannsgardenco.com/12130021/Plant/3229/Concorde_Japanese_Barberry/))
+- "Concorde Japanese Barberry makes a fine choice for the outdoor landscape", hybrid cultivar of illegal Japanese Barberry ([Accessed Jan 20, 2025](http://plants.dammannsgardenco.com/12130021/Plant/3229/Concorde_Japanese_Barberry/))
 - Plant library is < 5% native ([link](dammanns-plant-name-analysis-2025-01-27.md))
 
 </div>
@@ -366,9 +366,8 @@ Use when you put forth any substantial effort
 
 - Think in geological time. You may not see results in your lifetime.
 - 1 square foot at a time, 1 year at a time.
-- Remember first principles: do it because it's right, not because it's easy or for results
-- Community support: you aren't alone in the struggle
-- Don't do it alone: invasive removal is a communal effort
+- Remember first principles: do it because it's right, not because it's easy or for results.
+- You aren't alone, don't do it alone. Invasive removal is a communal effort.
 
 Note: someone named Liz overheard me and went on a rant about how hard it is to promote native plants
 
@@ -466,7 +465,7 @@ Tips:
 
 #### GIST Handbook and Tools
 
-Global Invasive Species Team [Weed Control Methods Handbook](https://www.invasive.org/gist/handbook.html) and [tool reviews](https://www.invasive.org/gist/tools.html) have a lot of tips and ideas.
+Global Invasive Species Team (GIST) [Weed Control Methods Handbook](https://www.invasive.org/gist/handbook.html) and [tool reviews](https://www.invasive.org/gist/tools.html) have a lot of tips and ideas.
 
 Note: I've theorized about some of those tools
 
@@ -485,7 +484,7 @@ Use when you want to minimize effort and maximize ecological benefit
 
 #### Biotic Resistance!
 
-It's a numbers game:
+It's a numbers game of biology:
 
 - American Black Raspberry > Fortune's Spindle, Sweet Autumn Clematis
 - Riverbank Grapevine > Fortune's Spindle
@@ -517,7 +516,7 @@ Transfer from other yards.
 
 #### Register
 
-Fill out the [Dept. of Land Stewardship](https://www.indy.gov/activity/land-stewardship) form by listing
+Fill out the [Dept. of Land Stewardship](https://www.indy.gov/activity/land-stewardship) form
 
 At least 70% native and maintained according to guide
 
@@ -707,7 +706,7 @@ Roughleaf Dogwood
 
 </div>
 
-<h5 class="fragment hint" data-fragment-index="1">Hint: Remove both or break 0.5" stem to see if hallow</h5>
+<h5 class="fragment hint" data-fragment-index="1">Hint: Break 0.5" stem to see if hallow (may need to wait)</h5>
 
 </div>
 
@@ -1074,7 +1073,7 @@ Note: sometimes cottonwood has pinkish veins/stems
 
 Is it possible to differentiate from native Red Mulberry due to hybridization?
 
-[Purdue University has a 6-page guide](https://www.extension.purdue.edu/extmedia/fnr/fnr_237.pdf), but I still had to resort to genetic testing.
+Purdue University has a [6-page guide](https://www.extension.purdue.edu/extmedia/fnr/fnr_237.pdf), but I still had to resort to genetic testing.
 
 Note: hybridization makes it impossible
 
