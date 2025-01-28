@@ -501,7 +501,8 @@ _Warning: Buying natives is very hard to do relative to how easy it is to buy ne
 - Stores primarily carry non-natives and hybrids/cultivars. 🤯
 - Cost prohibitive, $5 for a single plant gets expensive quickly.
 - Don't trust the label, know your source. See also my [saga of buying mislabeled Red Mulberry](https://www.josephdpurcell.com/mulberry-samples/).
-- March 1 online and May 3-18 in-person is [Indy Urban Acres](https://www.iuaplantsale.com/) plant sale.
+- March 1 online, May 3-18 in-person [Indy Urban Acres](https://www.iuaplantsale.com/) sale
+- May 19 6:30-9:00 pm [Irvington Garden Club Plant Exchange](https://www.irvingtongardenclub.com/event-details/club-meeting-plant-exchange-2025-05-19-18-30)
 - INPS has a [Buy Natives Directory](https://indiananativeplants.org/landscaping/where-to-buy/), an annual auction, and a seed swap at the annual conference.
 
 Note: I bought Red Mulberry that PPDL genetic tested as White, yes the illegal one.
